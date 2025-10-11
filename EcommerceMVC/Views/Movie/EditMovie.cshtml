@@ -1,0 +1,40 @@
+﻿@* i change the view to UpdateMovieModel to valid in update method in contoller *@
+@* @model MovieMVC.Models.ResponseMoviesModel *@
+@model MovieMVC.Models.UpdateMovieModel
+
+
+@{ 
+ 	ViewData["Title"] = "Edit Movie"; 
+ }
+
+<h1>Edit Movie</h1>
+<form method="post" class="w-50">
+	@* <input class="form-control mt-2" type="text" asp-for="Title" placeholder="@Model.Title" /> *@
+	<div class="form-group">
+		<label asp-for="Title" class="control-label"></label>
+		<input asp-for="Title" class="form-control" placeholder="@Model.Title" />
+		<span asp-validation-for="Title" class="text-danger"></span>
+	</div>
+	@* <input class="form-control mt-2" type="text" asp-for="Genre" placeholder="@Model.Genre" /> *@
+	<div class="form-group">
+		<label asp-for="Genre" class="control-label"></label>
+		<input asp-for="Genre" class="form-control" placeholder="@Model.Genre" />
+		<span asp-validation-for="Genre" class="text-danger"></span>
+	</div>
+	@* <input class="form-control mt-2" type="text" asp-for="Price" placeholder="@Model.Price" /> *@
+	<div class="form-group">
+		<label asp-for="Price" class="control-label"></label>
+		<input asp-for="Price" class="form-control" placeholder="@Model.Price" data-val="true" data-val-number="The field Price must be a number." data-val-required="The Price field is required." />
+		<span asp-validation-for="Price" class="text-danger"></span>
+	</div>
+	@* <input class="form-control mt-2" type="text" asp-for="ReleaseDate" placeholder="@Model.ReleaseDate" /> *@
+	<div class="form-group">
+		<label asp-for="ReleaseDate" class="control-label"></label>
+		<input asp-for="ReleaseDate" class="form-control" placeholder="@Model.ReleaseDate" />
+		<span asp-validation-for="ReleaseDate" class="text-danger"></span>
+	</div>
+
+	<button type="submit" class="my-3" asp-controller="Movie" asp-action="UpdateMovie" asp-route-id="@Model.Id">Save</button>
+</form>
+
+<a asp-action="GetMovies" class="text-primary mt-2">Back to List</a>

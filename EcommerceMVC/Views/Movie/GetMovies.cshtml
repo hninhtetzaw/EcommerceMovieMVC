@@ -1,0 +1,85 @@
+﻿@{
+	ViewData["Title"] = "GetMovies";
+}
+@model IEnumerable<MovieMVC.Models.ResponseMoviesModel>
+
+
+<h1>Movies</h1>
+
+<div class="text-end">
+	<a class="btn btn-primary" asp-controller="Movie" asp-action="AddMovie">Add New</a>
+</div>
+
+<form asp-action="GetMovies" asp-asp-controller="Movie" method="get">
+	<p>
+		@* GetMovies?SearchString=Testing *@
+		<label>Title:<input type="text" name="SearchString" /></label>
+		<input type="submit" value="Filter" />
+	</p>
+</form>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Genre</th>
+			<th>Price</th>
+			<th>Release Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var movie in Model)
+		{
+			<tr>
+				<td>@movie.Title</td>
+				<td>@movie.Genre</td>
+				<td>@movie.Price</td>
+				<td>@movie.ReleaseDate</td>
+
+				<td>
+					<a asp-action="GetMovieById" 
+					   asp-route-id="@movie.Id"
+					  >Details</a>
+					|
+					<a asp-action="EditMovie" asp-route-id="@movie.Id" class="text-success">Edit</a>
+					|
+					<a class="text-danger"
+					   data-bs-toggle="modal"
+					   data-bs-target="#deleteModal-@movie.Id"
+					   asp-route-id ="@movie.Id">Delete</a>
+					   
+
+				</td>
+			</tr>
+
+
+	    <!-- Modal -->
+		<form method="post">
+				<div class="modal fade" id="deleteModal-@movie.Id" tabindex="-1">
+					<div class="modal-dialog modal-dialog-centere">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h1 class="modal-title fs-5" id="exampleModalLabel">Are You Sure to Delete?</h1>
+								<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+								<button type="submit"
+										class="btn btn-primary"
+										asp-controller="Movie"
+										asp-action="DeleteMovie"
+										asp-route-id="@movie.Id">
+									Confirm Delete
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+		</form>
+		
+		
+		}
+	
+	</tbody>
+
+	</table>

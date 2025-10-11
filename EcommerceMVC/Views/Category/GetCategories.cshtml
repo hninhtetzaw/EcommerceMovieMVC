@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<MovieMVC.Models.ResponseCategoryDto>
+
+
+<div class="row justify-content-between">
+    <div>
+        <h2>Categories Lists</h2>
+    </div>
+    <div class="text-end">
+        <form method="get">
+            <button type="submit" class="btn btn-primary" asp-action="AddCategory" asp-controller="Category">Add New</button>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Name
+            </th>
+        </tr>
+
+    </thead>
+    <tbody>
+       @{
+           var i = 1;
+       }
+
+        @foreach (var category in Model)
+        {
+          <tr>
+            <td>@i</td>                            
+            <td>@category.Name</td>
+          </tr>
+          i++;
+        }
+   
+    </tbody>
+</table>
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model MovieMVC.Models.RequestNewCategoryDto
+
+<h2>Add Category</h2>
+<div>
+    <form method="post" class="w-25">
+       <div class="form-group">
+            @* <label asp-for="Name" class="form-label"></label> *@
+            <input type="text" class="form-control" placeholder="Name" asp-for="Name" />
+
+            <div class="align-items-center mt-3">
+                <a class="btn btn-outline-primary" asp-action="GetCategories" asp-controller="Category">Cancle</a>
+                <button type="submit" class="ms-4 btn btn-primary text-end" asp-action="AddCategory" asp-controller="Category">Add</button>
+            </div>           
+       </div>
+      
+    </form>
+</div>
+
