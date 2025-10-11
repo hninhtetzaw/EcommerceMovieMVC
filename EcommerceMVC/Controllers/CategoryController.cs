@@ -18,6 +18,7 @@ namespace MovieMVC.Controllers
             return View();
         }
 
+
         [HttpGet]
         public IActionResult GetCategories()
         {
@@ -31,6 +32,7 @@ namespace MovieMVC.Controllers
         {
             return View();
         }
+
 
         [HttpPost]
         public IActionResult AddCategory(RequestNewCategoryDto request) 
