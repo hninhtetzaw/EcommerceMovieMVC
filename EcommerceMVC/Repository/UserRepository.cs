@@ -5,9 +5,15 @@ namespace EcommerceMVC.Repository
 {
     public class UserRepository : IUserRepository
     {
+        private readonly MoviedbContext _db;
+        public UserRepository(MoviedbContext db)
+        {
+            _db = db;
+        }
         public List<TblUser> GetAllUserAsync()
         {
-            throw new NotImplementedException();
+           var userLists = _db.TblUsers.ToList();
+            return userLists;
         }
 
         public TblUser GetUserByIdAsync(string id)

@@ -128,3 +128,4 @@ D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.genruntimeconfig.cache
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\ref\EcommerceMVC.dll
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.sourcelink.json
+D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
