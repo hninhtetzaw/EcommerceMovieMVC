@@ -1,6 +1,6 @@
-﻿using MovieMVC.Data;
+﻿using EcommerceMVC.Data;
 
-namespace MovieMVC.Interfaces
+namespace EcommerceMVC.Interfaces.IRepositories
 {
     public interface IMovieRepository
     {

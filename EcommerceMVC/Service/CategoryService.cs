@@ -1,9 +1,10 @@
 ﻿
-using MovieMVC.Data;
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
+using EcommerceMVC.Data;
+using EcommerceMVC.Interfaces.IRepositories;
+using EcommerceMVC.Interfaces.IServices;
+using EcommerceMVC.Models.CategoryDtos;
 
-namespace MovieMVC.Service
+namespace EcommerceMVC.Service
 {
     public class CategoryService : ICategoryService
     {

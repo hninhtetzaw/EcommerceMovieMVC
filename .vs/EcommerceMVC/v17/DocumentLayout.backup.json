@@ -97,10 +97,6 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ResponseUserDto.cs",
@@ -110,7 +106,8 @@
               "RelativeToolTip": "EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:23:08.476Z"
+              "WhenOpened": "2025-10-12T13:23:08.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,7 +119,12 @@
               "RelativeToolTip": "EcommerceMVC\\Controllers\\MovieController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:21:16.784Z"
+              "WhenOpened": "2025-10-12T13:21:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -134,7 +136,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IServices\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:17:14.874Z"
+              "WhenOpened": "2025-10-12T13:17:14.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,7 +149,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IRepositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:09:38.341Z"
+              "WhenOpened": "2025-10-12T13:09:38.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +162,8 @@
               "RelativeToolTip": "EcommerceMVC\\Service\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:05:54.033Z"
+              "WhenOpened": "2025-10-12T13:05:54.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,7 +175,8 @@
               "RelativeToolTip": "EcommerceMVC\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:15:10.857Z"
+              "WhenOpened": "2025-10-12T13:15:10.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,7 +186,7 @@
               "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\UserController.cs",
               "ToolTip": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMVC\\Controllers\\UserController.cs",
               "RelativeToolTip": "EcommerceMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T13:12:33.684Z",
               "EditorCaption": ""
@@ -195,7 +201,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IRepositories\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:08:16.459Z"
+              "WhenOpened": "2025-10-12T13:08:16.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,7 +214,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IServices\\IMovieService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:17:24.463Z"
+              "WhenOpened": "2025-10-12T13:17:24.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -219,7 +227,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IRepositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:18:08.947Z"
+              "WhenOpened": "2025-10-12T13:18:08.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -231,7 +240,8 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IServices\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:18:37.91Z"
+              "WhenOpened": "2025-10-12T13:18:37.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -243,7 +253,8 @@
               "RelativeToolTip": "EcommerceMVC\\Models\\CategoryDtos\\ResponseCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:20:35.929Z"
+              "WhenOpened": "2025-10-12T13:20:35.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -255,7 +266,8 @@
               "RelativeToolTip": "EcommerceMVC\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:06:56.019Z"
+              "WhenOpened": "2025-10-12T13:06:56.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -267,7 +279,8 @@
               "RelativeToolTip": "EcommerceMVC\\Models\\CategoryDtos\\UpdateCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:51:30.779Z"
+              "WhenOpened": "2025-10-12T12:51:30.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -279,7 +292,8 @@
               "RelativeToolTip": "EcommerceMVC\\Models\\RequestNewMovieModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:51:25.915Z"
+              "WhenOpened": "2025-10-12T12:51:25.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -291,7 +305,8 @@
               "RelativeToolTip": "EcommerceMVC\\Repository\\MovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:50:29.218Z"
+              "WhenOpened": "2025-10-12T12:50:29.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -303,7 +318,8 @@
               "RelativeToolTip": "EcommerceMVC\\Data\\TblCinema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:49:17.014Z"
+              "WhenOpened": "2025-10-12T12:49:17.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -315,7 +331,8 @@
               "RelativeToolTip": "EcommerceMVC\\Data\\TblMovieCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T09:41:23.857Z"
+              "WhenOpened": "2025-10-12T09:41:23.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -327,7 +344,8 @@
               "RelativeToolTip": "EcommerceMVC\\Data\\TblMovie.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAwwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T09:41:17.887Z"
+              "WhenOpened": "2025-10-12T09:41:17.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -339,7 +357,8 @@
               "RelativeToolTip": "EcommerceMVC\\Data\\MovieDbContext.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAAAE4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T09:40:49.705Z"
+              "WhenOpened": "2025-10-12T09:40:49.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -351,7 +370,8 @@
               "RelativeToolTip": "EcommerceMVC\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:00:26.009Z"
+              "WhenOpened": "2025-10-11T15:00:26.009Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,9 +1,9 @@
 ﻿
-using MovieMVC.Data;
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
+using EcommerceMVC.Data;
+using EcommerceMVC.Interfaces.IRepositories;
+using EcommerceMVC.Models;
 
-namespace MovieMVC.Repository
+namespace EcommerceMVC.Repository
 {
     public class CategoryRepository : ICategoryRepository
     {

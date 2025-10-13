@@ -121,10 +121,10 @@ D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceMVC.props
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcommerceMVC.props
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.pack.json
-D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\Ecommerc.5D45C106.Up2Date
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.dll
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\refint\EcommerceMVC.dll
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.pdb
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.genruntimeconfig.cache
 D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\ref\EcommerceMVC.dll
+D:\HHZDotNetTraining\HHZDotNetTraining\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.sourcelink.json

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MovieMVC.Data;
+namespace EcommerceMVC.Data;
 
 public partial class TblMovie
 {
@@ -12,6 +12,8 @@ public partial class TblMovie
     public string Genre { get; set; } = null!;
 
     public decimal Price { get; set; }
+
+    public string? ImageUrl { get; set; }
 
     public DateTime? ReleaseDate { get; set; }
 

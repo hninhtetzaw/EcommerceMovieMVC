@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Components.Forms;
 
-namespace MovieMVC.Models
+namespace EcommerceMVC.Models
 {
     public class ResponseMoviesModel
     {

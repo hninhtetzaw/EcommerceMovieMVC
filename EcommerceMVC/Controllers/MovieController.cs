@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
-using MovieMVC.Data;
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
-using MovieMVC.Services;
+using EcommerceMVC.Data;
+using EcommerceMVC.Models;
+using EcommerceMVC.Services;
 using Mysqlx.Crud;
 using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
+using EcommerceMVC.Interfaces.IServices;
 
-namespace MovieMVC.Controllers
+namespace EcommerceMVC.Controllers
 {
     public class MovieController : Controller
     {

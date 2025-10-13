@@ -1,8 +1,7 @@
-﻿
-using MovieMVC.Data;
-using MovieMVC.Models;
+﻿using EcommerceMVC.Data;
+using EcommerceMVC.Models;
 
-namespace MovieMVC.Interfaces
+namespace EcommerceMVC.Interfaces.IRepositories
 {
     public interface ICategoryRepository
     {

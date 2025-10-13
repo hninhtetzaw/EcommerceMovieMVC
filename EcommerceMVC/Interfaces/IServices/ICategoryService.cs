@@ -1,8 +1,6 @@
-﻿
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
+﻿using EcommerceMVC.Models.CategoryDtos;
 
-namespace MovieMVC.Interfaces
+namespace EcommerceMVC.Interfaces.IServices
 {
     public interface ICategoryService
     {

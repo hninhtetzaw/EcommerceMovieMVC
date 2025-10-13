@@ -1,6 +1,6 @@
-﻿using MovieMVC.Models;
+﻿using EcommerceMVC.Models;
 
-namespace MovieMVC.Interfaces;
+namespace EcommerceMVC.Interfaces.IServices;
 
 public interface IMovieService
 {
@@ -9,6 +9,6 @@ public interface IMovieService
     ResponseMoviesModel GetMovieById(string id);
     ResponseMoviesModel UpdateMovie(string id, UpdateMovieModel movie);
     ResponseMoviesModel DeleteMovie(string id);
-    
+
 
 }

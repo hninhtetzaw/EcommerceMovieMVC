@@ -1,9 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using MovieMVC.Data;
-using MovieMVC.Interfaces;
-using MovieMVC.Repository;
-using MovieMVC.Service;
-using MovieMVC.Services;
+using EcommerceMVC.Data;
+using EcommerceMVC.Repository;
+using EcommerceMVC.Service;
+using EcommerceMVC.Services;
+using EcommerceMVC.Interfaces.IRepositories;
+using EcommerceMVC.Interfaces.IServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,8 +19,12 @@ builder.Services.AddDbContext<MoviedbContext>(options => options.UseMySQL(
 
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<IMovieService, MovieService>();
+
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService,  UserService>();
 
 
 var app = builder.Build();

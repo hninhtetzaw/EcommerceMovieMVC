@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
-using MovieMVC.Data;
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
-using MovieMVC.Repository;
+using EcommerceMVC.Data;
+using EcommerceMVC.Models;
+using EcommerceMVC.Repository;
+using EcommerceMVC.Interfaces.IRepositories;
+using EcommerceMVC.Interfaces.IServices;
 
-namespace MovieMVC.Services;
+namespace EcommerceMVC.Services;
 public class MovieService:IMovieService
 {
 

@@ -1,7 +1,4 @@
-﻿
-using MovieMVC.Models;
-
-namespace MovieMVC.Models
+﻿namespace EcommerceMVC.Models.CategoryDtos
 {
     public class RequestNewCategoryDto
     {

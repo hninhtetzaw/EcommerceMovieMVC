@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace MovieMVC.Models;
+namespace EcommerceMVC.Models;
 
 public class UpdateMovieModel
 {

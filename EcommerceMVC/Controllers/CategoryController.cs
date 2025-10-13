@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MovieMVC.Interfaces;
-using MovieMVC.Models;
-using MovieMVC.Service;
+using EcommerceMVC.Service;
+using EcommerceMVC.Interfaces.IServices;
+using EcommerceMVC.Models.CategoryDtos;
 
-namespace MovieMVC.Controllers
+namespace EcommerceMVC.Controllers
 {
     public class CategoryController : Controller
     {

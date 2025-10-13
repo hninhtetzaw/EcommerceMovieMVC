@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MovieMVC.Data;
+namespace EcommerceMVC.Data;
 
 public partial class TblMovieCategory
 {
