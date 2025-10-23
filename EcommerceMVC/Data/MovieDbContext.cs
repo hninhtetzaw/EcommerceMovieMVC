@@ -17,6 +17,8 @@ public partial class MoviedbContext : DbContext
 
     public virtual DbSet<TblActor> TblActors { get; set; }
 
+    public virtual DbSet<TblActorMovie> TblActorMovies { get; set; }
+
     public virtual DbSet<TblCinema> TblCinemas { get; set; }
 
     public virtual DbSet<TblMovie> TblMovies { get; set; }
@@ -42,9 +44,40 @@ public partial class MoviedbContext : DbContext
             entity.ToTable("tbl_actor");
 
             entity.Property(e => e.Id).HasMaxLength(36);
+            entity.Property(e => e.ActorId)
+                .HasMaxLength(36)
+                .HasColumnName("Actor_Id");
             entity.Property(e => e.Bio).HasMaxLength(45);
             entity.Property(e => e.FullName).HasMaxLength(45);
             entity.Property(e => e.ProfilePictureUrl).HasMaxLength(45);
+        });
+
+        modelBuilder.Entity<TblActorMovie>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PRIMARY");
+
+            entity.ToTable("tbl_actor_movie");
+
+            entity.HasIndex(e => e.ActorId, "fk_tbl_actor");
+
+            entity.HasIndex(e => e.MovieId, "fk_tbl_movie");
+
+            entity.Property(e => e.Id).HasMaxLength(36);
+            entity.Property(e => e.ActorId)
+                .HasMaxLength(45)
+                .HasColumnName("Actor_Id");
+            entity.Property(e => e.MovieId)
+                .HasMaxLength(45)
+                .HasColumnName("Movie_Id");
+
+            entity.HasOne(d => d.Actor).WithMany(p => p.TblActorMovies)
+                .HasForeignKey(d => d.ActorId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fk_tbl_actor");
+
+            entity.HasOne(d => d.Movie).WithMany(p => p.TblActorMovies)
+                .HasForeignKey(d => d.MovieId)
+                .HasConstraintName("fk_tbl_movie");
         });
 
         modelBuilder.Entity<TblCinema>(entity =>
@@ -67,17 +100,35 @@ public partial class MoviedbContext : DbContext
 
             entity.HasIndex(e => e.CategoryId, "fk_movie_tbl_movie_category");
 
+            entity.HasIndex(e => e.CinemaId, "fk_tbl_cinema");
+
+            entity.HasIndex(e => e.ProducerId, "fk_tbl_producer");
+
             entity.Property(e => e.Id).HasMaxLength(36);
             entity.Property(e => e.CategoryId).HasMaxLength(36);
+            entity.Property(e => e.CinemaId)
+                .HasMaxLength(36)
+                .HasColumnName("Cinema_Id");
             entity.Property(e => e.Genre).HasMaxLength(45);
             entity.Property(e => e.ImageUrl).HasMaxLength(45);
             entity.Property(e => e.Price).HasPrecision(10);
+            entity.Property(e => e.ProducerId)
+                .HasMaxLength(36)
+                .HasColumnName("Producer_Id");
             entity.Property(e => e.ReleaseDate).HasColumnType("datetime");
             entity.Property(e => e.Title).HasMaxLength(45);
 
             entity.HasOne(d => d.Category).WithMany(p => p.TblMovies)
                 .HasForeignKey(d => d.CategoryId)
                 .HasConstraintName("fk_movie_tbl_movie_category");
+
+            entity.HasOne(d => d.Cinema).WithMany(p => p.TblMovies)
+                .HasForeignKey(d => d.CinemaId)
+                .HasConstraintName("fk_tbl_cinema");
+
+            entity.HasOne(d => d.Producer).WithMany(p => p.TblMovies)
+                .HasForeignKey(d => d.ProducerId)
+                .HasConstraintName("fk_tbl_producer");
         });
 
         modelBuilder.Entity<TblMovieCategory>(entity =>

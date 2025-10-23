@@ -12,4 +12,7 @@ public partial class TblProducer
     public string FullName { get; set; } = null!;
 
     public string? Bio { get; set; }
+
+    // Navigation property for relationship (one to many)
+    public virtual ICollection<TblMovie> TblMovies { get; set; } = new List<TblMovie>();
 }
