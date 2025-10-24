@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
+      "PackagePath": "staticwebassets\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
+      "PackagePath": "staticwebassets\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
+      "PackagePath": "staticwebassets\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
+      "PackagePath": "staticwebassets\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
+      "PackagePath": "staticwebassets\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png"
+    },
+    {
       "Id": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

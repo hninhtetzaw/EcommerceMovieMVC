@@ -4,15 +4,21 @@ using EcommerceMVC.Models;
 using EcommerceMVC.Repository;
 using EcommerceMVC.Interfaces.IRepositories;
 using EcommerceMVC.Interfaces.IServices;
+using Org.BouncyCastle.Asn1.Ocsp;
 
 namespace EcommerceMVC.Services;
 public class MovieService:IMovieService
 {
 
     private readonly IMovieRepository _repo;
-    public MovieService(IMovieRepository repo)
+    private readonly IWebHostEnvironment _hostingEnvironment;
+    private readonly IHttpContextAccessor _httpContextAccessor;
+
+    public MovieService(IMovieRepository repo, IWebHostEnvironment hostEnvironment, IHttpContextAccessor httpContextAccessor)
     {
         _repo = repo;
+        _hostingEnvironment = hostEnvironment;
+        _httpContextAccessor = httpContextAccessor;
     }
     public List<ResponseMoviesModel> GetAllMovies(string searchString)
     {
@@ -24,7 +30,8 @@ public class MovieService:IMovieService
             Title = m.Title,
             Genre = m.Genre,
             ReleaseDate = m.ReleaseDate,
-            Price = m.Price
+            Price = m.Price,
+            ImageUrl = m.ImageUrl
         }).ToList();
 
         return responseList;
@@ -32,13 +39,30 @@ public class MovieService:IMovieService
 
     public ResponseMoviesModel AddMovie(RequestNewMovieModel request)
     {
-       var movie = new TblMovie
+        //create file name
+        var fileName = $"{Guid.NewGuid().ToString()}{Path.GetExtension(request.ImageFile.FileName)}";
+        //create filepath
+        var filePath = Path.Combine(_hostingEnvironment.WebRootPath, "images", fileName);
+        //save file to path
+        using (var stream = new FileStream(filePath, FileMode.Create))
+        {
+            request.ImageFile.CopyTo(stream);
+        }
+
+        //string imageUrl = $"{Request.Scheme}://{Request.Host}/uploads/{uniqueFileName}"; // refrence
+        //string imageUrl = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}/images/{filePath}";
+        //filepath is full url . so i don't see image in browser
+        string imageUrl = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}/images/{fileName}";
+
+
+        var movie = new TblMovie
        {
            Id= request.Id,
            //Title = request.Title!,
            Title = request.Title,
            Genre = request.Genre,
            ReleaseDate = request.ReleaseDate,
+           ImageUrl = imageUrl,
            Price = request.Price
        };
 
@@ -50,6 +74,7 @@ public class MovieService:IMovieService
             Title = response.Title,
             Genre = response.Genre,
             ReleaseDate = response.ReleaseDate,
+            ImageUrl = response.ImageUrl,
             Price = response.Price
         };
 

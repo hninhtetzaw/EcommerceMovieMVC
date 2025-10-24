@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<EcommerceMVC.Models.ResponseMoviesModel>
+<h1>Movies</h1>
+
+<div class="text-end">
+	<a class="btn btn-primary" asp-controller="Movie" asp-action="AddMovie">Add New</a>
+</div>
+
+<form asp-action="GetMovies" asp-asp-controller="Movie" method="get">
+	<p>
+		@* GetMovies?SearchString=Testing *@
+		<label>Title:<input type="text" name="SearchString" /></label>
+		<input type="submit" value="Filter" />
+	</p>
+</form>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Genre</th>
+			<th>Price</th>
+			<th>Image</th>
+			<th>Release Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var movie in Model)
+		{
+			<tr>
+				<td>@movie.Title</td>
+				<td>@movie.Genre</td>
+				<td>@movie.Price</td>
+				<td>@movie.ImageUrl</td>
+				<td>@movie.ReleaseDate</td>
+
+				
+			</tr>
+		}

@@ -24,6 +24,7 @@
 			<th>Title</th>
 			<th>Genre</th>
 			<th>Price</th>
+			<th>Image</th>
 			<th>Release Date</th>
 		</tr>
 	</thead>
@@ -34,6 +35,19 @@
 				<td>@movie.Title</td>
 				<td>@movie.Genre</td>
 				<td>@movie.Price</td>
+				@* <td>@movie.ImageUrl</td> *@
+				<td>
+					@* <img src="@movie.ImageUrl" alt="@movie.Title" width="30" height="30" /> *@
+					@* <img src="@Url.Content(@movie.ImageUrl)" alt="@movie.Title" width="30" height="30" /> *@
+					@if (!string.IsNullOrEmpty(movie.ImageUrl))
+					{
+						<img src="@movie.ImageUrl" alt="@movie.Title" width="30" height="30" />
+					}
+					else
+					{
+						<span>No Image</span>
+					}
+				</td>
 				<td>@movie.ReleaseDate</td>
 
 				<td>
