@@ -12,4 +12,6 @@ public partial class TblProducer
     public string FullName { get; set; } = null!;
 
     public string? Bio { get; set; }
+
+    public virtual ICollection<TblMovie> TblMovies { get; set; } = new List<TblMovie>();
 }
