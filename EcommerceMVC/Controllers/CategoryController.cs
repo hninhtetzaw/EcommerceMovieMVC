@@ -38,8 +38,8 @@ namespace EcommerceMVC.Controllers
         public IActionResult AddCategory(RequestNewCategoryDto request) 
         {
             var result = _service.AddCategory(request);
-            var count = result.ToString().Length;  
-            ViewBag.Count = count;
+            //var count = result.ToString().Length;  
+            //ViewBag.Count = count;
             return RedirectToAction("GetCategories", "Category");
         }
     }

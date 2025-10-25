@@ -6,15 +6,19 @@ using EcommerceMVC.Services;
 using Mysqlx.Crud;
 using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
 using EcommerceMVC.Interfaces.IServices;
+using EcommerceMVC.Models.CategoryDtos;
+using EcommerceMVC.Models.CombinedViewDto;
 
 namespace EcommerceMVC.Controllers
 {
     public class MovieController : Controller
     {
         private readonly IMovieService _service;
-        public MovieController(IMovieService service)
+        private readonly ICategoryService _categoryService;
+        public MovieController(IMovieService service,ICategoryService categoryService)
         {
             _service = service;
+            _categoryService = categoryService;
 
         }
         //public IActionResult Index()
@@ -32,15 +36,28 @@ namespace EcommerceMVC.Controllers
         }
 
         //Movie/AddMovies
+        //[HttpGet]
+        //public IActionResult AddMovie()
+        //{
+        //    return View();
+        //}
+
+        //for categories dropdown list
         [HttpGet]
-        public IActionResult AddMovie()
+        public IActionResult AddMovie(string? searchString)
         {
-            return View();
+            var categories = _categoryService.GetAllCategories();
+            var addMovieModel = new AddMovieViewDto
+            {
+                CategoriesList = categories
+            };
+
+            return View(addMovieModel);
         }
 
         //Movie/AddMovies/
         [HttpPost]
-        public IActionResult AddMovie(RequestNewMovieModel request)
+        public IActionResult AddMovie([FromForm] RequestNewMovieModel request)
         {
             if (!ModelState.IsValid)
             {
@@ -106,5 +123,17 @@ namespace EcommerceMVC.Controllers
         }
 
 
+        #region Users
+
+        [HttpGet]
+        //[HttpPost]
+        public IActionResult GetMoviesUser(string? searchString)
+        {
+            var movies = _service.GetAllMovies(searchString);
+            return View(movies);
+        }
+
+        #endregion
     }
 }
+

@@ -26,6 +26,9 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService,  UserService>();
 
+builder.Services.AddHttpContextAccessor(); // For accessing HttpContext in services
+
+
 
 var app = builder.Build();
 

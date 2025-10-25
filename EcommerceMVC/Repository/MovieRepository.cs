@@ -1,5 +1,6 @@
 ﻿using EcommerceMVC.Data;
 using EcommerceMVC.Interfaces.IRepositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceMVC.Repository
 {
@@ -13,12 +14,19 @@ namespace EcommerceMVC.Repository
 
         public List<TblMovie> GetAllMoviesAsync(string searchString)
         {
-            if(searchString is not null)
+
+            //if(searchString is not null)
+            //{
+            //    var filterMovies = _db.TblMovies.Include("TblMovieCategory").Where(m=>m.Title.Contains(searchString)).ToList();
+            //    return filterMovies;
+            //}
+            //return _db.TblMovies.Include("TblMovieCategory").ToList();
+            if (searchString is not null)
             {
-                var filterMovies = _db.TblMovies.Where(m=>m.Title.Contains(searchString)).ToList();
+                var filterMovies = _db.TblMovies.Include(m=>m.Category).Where(m => m.Title.Contains(searchString)).ToList();
                 return filterMovies;
             }
-            return _db.TblMovies.ToList();
+            return _db.TblMovies.Include(m=> m.Category).ToList();
         }
         public TblMovie AddMovieAsync(TblMovie movie)
         {

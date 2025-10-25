@@ -110,7 +110,7 @@ public partial class MoviedbContext : DbContext
                 .HasMaxLength(36)
                 .HasColumnName("Cinema_Id");
             entity.Property(e => e.Genre).HasMaxLength(45);
-            entity.Property(e => e.ImageUrl).HasMaxLength(45);
+            entity.Property(e => e.ImageUrl).HasMaxLength(500);
             entity.Property(e => e.Price).HasPrecision(10);
             entity.Property(e => e.ProducerId)
                 .HasMaxLength(36)
