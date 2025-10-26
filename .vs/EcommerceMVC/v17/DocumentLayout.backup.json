@@ -116,7 +116,7 @@
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
               "ToolTip": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
               "RelativeToolTip": "EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-13T17:14:11.834Z",
               "EditorCaption": ""
@@ -131,8 +131,7 @@
               "RelativeToolTip": "EcommerceMVC\\Views\\Category\\GetCategories.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T17:14:27.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T17:14:27.044Z"
             },
             {
               "$type": "Document",
@@ -144,8 +143,7 @@
               "RelativeToolTip": "EcommerceMVC\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:12:33.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:12:33.684Z"
             },
             {
               "$type": "Document",
@@ -157,8 +155,7 @@
               "RelativeToolTip": "EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:23:08.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:23:08.476Z"
             },
             {
               "$type": "Document",
@@ -170,8 +167,7 @@
               "RelativeToolTip": "EcommerceMVC\\Interfaces\\IRepositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:09:38.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:09:38.341Z"
             },
             {
               "$type": "Document",
@@ -183,8 +179,7 @@
               "RelativeToolTip": "EcommerceMVC\\Service\\UserService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:05:54.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:05:54.033Z"
             },
             {
               "$type": "Document",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "EcommerceMVC\\Data\\TblMovie.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T09:41:17.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T09:41:17.887Z"
             },
             {
               "$type": "Document",
@@ -209,8 +203,7 @@
               "RelativeToolTip": "EcommerceMVC\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:06:56.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:06:56.019Z"
             },
             {
               "$type": "Document",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "EcommerceMVC\\Repository\\MovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:50:29.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T12:50:29.218Z"
             },
             {
               "$type": "Document",
