@@ -63,6 +63,7 @@ public class MovieService:IMovieService
            Genre = request.Genre,
            ReleaseDate = request.ReleaseDate,
            ImageUrl = imageUrl,
+           CategoryId = request.GenreId,
            Price = request.Price
        };
 

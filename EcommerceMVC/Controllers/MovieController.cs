@@ -49,7 +49,8 @@ namespace EcommerceMVC.Controllers
             var categories = _categoryService.GetAllCategories();
             var addMovieModel = new AddMovieViewDto
             {
-                CategoriesList = categories
+                MovieRequest = new RequestNewMovieModel(),
+                CategoriesList = categories ?? new List<ResponseCategoryDto>()
             };
 
             return View(addMovieModel);
@@ -57,18 +58,32 @@ namespace EcommerceMVC.Controllers
 
         //Movie/AddMovies/
         [HttpPost]
-        public IActionResult AddMovie([FromForm] RequestNewMovieModel request)
+        public IActionResult AddMovie([FromForm] AddMovieViewDto request)
         {
-            if (!ModelState.IsValid)
-            {
-                return View();
-            }
-            var response = _service.AddMovie(request);
+            //if (!ModelState.IsValid)
+            //{
+            //    return View();
+            //}
+
+            var newMovieRequest = request.MovieRequest;
+            var response = _service.AddMovie(newMovieRequest);
 
             //go back to getmovies pages
             return RedirectToAction("GetMovies");
 
         }
+        //public IActionResult AddMovie([FromForm] RequestNewMovieModel request)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return View();
+        //    }
+        //    var response = _service.AddMovie(request);
+
+        //    //go back to getmovies pages
+        //    return RedirectToAction("GetMovies");
+
+        //}
 
         [HttpGet]
         public IActionResult EditMovie(string id)

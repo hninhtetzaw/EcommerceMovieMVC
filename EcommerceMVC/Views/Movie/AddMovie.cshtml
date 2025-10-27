@@ -23,19 +23,19 @@
 	@* <label>Genre:</label>: *@
 	@* <input class="form-control" type="text" asp-for="Genre" placeholder="Genre" /> *@
 	<div class="form-group">
-		<label asp-for="MovieRequest.Genre" class="control-label">Category</label>
+		<label asp-for="MovieRequest.GenreId" class="control-label">Category</label>
 		@* <input asp-for="Genre" class="form-control" placeholder="Genre" data-val-required="The Genre field is required." /> *@
-		<select class="form-control">
+		<select asp-for="MovieRequest.GenreId" class="form-control">
 			<option value="">Select Category</option>
 
 			@foreach (var m in Model.CategoriesList)
-			{			
-				<option value="@m.Name">@m.Name</option>
-
+			{
+				<option value="@m.Id">@m.Name</option>
 			}
+
 			
 		</select>
-		<span asp-validation-for="MovieRequest.Genre" class="text-danger"></span>
+		<span asp-validation-for="MovieRequest.GenreId" class="text-danger"></span>
 	</div>
 
 	@* <label>Price:</label> *@
