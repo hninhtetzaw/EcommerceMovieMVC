@@ -33,10 +33,31 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movies Management</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMoviesUser">MoviesCatalog</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMovies">Test Management</a>
+                        </li>
+                        <li class="nav-item">
+                             <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMoviesUser">MoviesCatalog</a> 
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark text-end" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories</a>
+                        </li>
+                        <li class="nav-item dropdown">                            
+                                <a class="btn btn-secondary dropdown-toggle nav-link"
+                                   href="#"
+                                   role="button" 
+                                   id="dropdownMenuLink" 
+                                   data-bs-toggle="dropdown" 
+                                   aria-haspopup="true" 
+                                   aria-expanded="false">
+                                    Management
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movie Management</a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Another action</a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Something else here</a>
+                                </div>
+                           
                         </li>
                     </ul>
                 </div>

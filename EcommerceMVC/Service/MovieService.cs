@@ -54,18 +54,17 @@ public class MovieService:IMovieService
         //filepath is full url . so i don't see image in browser
         string imageUrl = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}/images/{fileName}";
 
-
         var movie = new TblMovie
-       {
-           Id= request.Id,
-           //Title = request.Title!,
-           Title = request.Title,
-           Genre = request.Genre,
-           ReleaseDate = request.ReleaseDate,
-           ImageUrl = imageUrl,
-           CategoryId = request.GenreId,
-           Price = request.Price
-       };
+        {
+            Id = request.Id,
+            //Title = request.Title!,
+            Title = request.Title,
+            Genre = request.Genre,
+            ReleaseDate = request.ReleaseDate,
+            ImageUrl = imageUrl,
+            //CategoryId = request.GenreId,
+            Price = request.Price
+        };
 
         var response = _repo.AddMovieAsync(movie);
 

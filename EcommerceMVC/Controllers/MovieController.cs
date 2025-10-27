@@ -26,7 +26,7 @@ namespace EcommerceMVC.Controllers
         //    return View();
         //}
 
-        //Movie/GetMovie
+        //Movie/GetMovies
         [HttpGet]
         //[HttpPost]
         public IActionResult GetMovies(string? searchString)

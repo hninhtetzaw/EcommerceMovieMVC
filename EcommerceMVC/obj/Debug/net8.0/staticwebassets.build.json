@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W7LBs1w9Au4hnxxJntnD8fqpMxcw6h79FUFK10QTnWI=",
+  "Hash": "iFDDqeQNf5cntWwxx/IoXRDTfl9ItZBIfUb0ygQL3NY=",
   "Source": "EcommerceMVC",
   "BasePath": "_content/EcommerceMVC",
   "Mode": "Default",
@@ -99,6 +99,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5omv0x3ray",
+      "Integrity": "e2eaRlI7PfPxgrCK8ZWwz4VTdw1AUyZ0b/5OgrRsF4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png"
+    },
+    {
+      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "687w8vihj4",
+      "Integrity": "as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png"
+    },
+    {
+      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5o7mczgjby",
+      "Integrity": "q3e10BDu2j+3uhdUHK0UoZeKijSrT7sL1hDK0A0qSBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png"
+    },
+    {
+      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "687w8vihj4",
+      "Integrity": "as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png"
     },
     {
       "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
@@ -246,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png"
+    },
+    {
+      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "SourceId": "EcommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "BasePath": "_content/EcommerceMVC",
+      "RelativePath": "images/c3b95d56-360a-48a9-a961-461ede955323#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "687w8vihj4",
+      "Integrity": "as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png"
     },
     {
       "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
@@ -1880,6 +1985,334 @@
       ]
     },
     {
+      "Route": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3.5omv0x3ray.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2eaRlI7PfPxgrCK8ZWwz4VTdw1AUyZ0b/5OgrRsF4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 10:11:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5omv0x3ray"
+        },
+        {
+          "Name": "label",
+          "Value": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2eaRlI7PfPxgrCK8ZWwz4VTdw1AUyZ0b/5OgrRsF4s="
+        }
+      ]
+    },
+    {
+      "Route": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2eaRlI7PfPxgrCK8ZWwz4VTdw1AUyZ0b/5OgrRsF4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 10:11:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2eaRlI7PfPxgrCK8ZWwz4VTdw1AUyZ0b/5OgrRsF4s="
+        }
+      ]
+    },
+    {
+      "Route": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c.687w8vihj4.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 06:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "687w8vihj4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 06:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.5o7mczgjby.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3e10BDu2j+3uhdUHK0UoZeKijSrT7sL1hDK0A0qSBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 04:51:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5o7mczgjby"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3e10BDu2j+3uhdUHK0UoZeKijSrT7sL1hDK0A0qSBQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3e10BDu2j+3uhdUHK0UoZeKijSrT7sL1hDK0A0qSBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 04:51:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3e10BDu2j+3uhdUHK0UoZeKijSrT7sL1hDK0A0qSBQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c.687w8vihj4.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 05:11:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "687w8vihj4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 05:11:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
+        }
+      ]
+    },
+    {
       "Route": "images/5c9245a1-340f-47bb-8279-eb9af96fed70.fn04o16ima.png",
       "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
       "Selectors": [],
@@ -2450,6 +2883,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-S3htO/FXDpIZAG5hMt/CO/hTi98R8arLPmsXmPtraX4="
+        }
+      ]
+    },
+    {
+      "Route": "images/c3b95d56-360a-48a9-a961-461ede955323.687w8vihj4.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 05:09:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "687w8vihj4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c3b95d56-360a-48a9-a961-461ede955323.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/c3b95d56-360a-48a9-a961-461ede955323.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 05:09:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-as8tGvjrqiylJcKx5YPw8S06tWleW2rXtzrNZDpPAk4="
         }
       ]
     },
