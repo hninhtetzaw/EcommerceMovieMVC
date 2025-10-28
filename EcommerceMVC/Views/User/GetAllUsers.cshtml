@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@* @model IEnumerable<EcommerceMVC.Models.UserDtos.ResponseUserDto> *@
+
+@* @model EcommerceMVC.Models.ApiResponseModel<List<ResponseUserDto>> *@
+
+@model EcommerceMVC.Models.ApiResponseModel<List<EcommerceMVC.Models.UserDtos.ResponseUserDto>>
+
+<h1>User Lists</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User Names</th>
+            <th>User Email</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+
+   <tbody>
+        @foreach (var user in Model.Data)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td><a>Details</a></td>
+                <td><a asp-action="EditUser" asp-route-id="@user.Id">Edit</a></td>
+                <td><a>Delete</a></td>
+            </tr>
+        }
+
+</tbody>
+  
+</table>

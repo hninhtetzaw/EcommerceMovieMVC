@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model EcommerceMVC.Models.ApiResponseModel<EcommerceMVC.Models.UserDtos.UpdateUserDto>
+
+<h1>Edit User</h1>
+
+<form method="post">
+    <div class="form-control">
+        <label asp-for="Data.UserName">User Name</label>
+        <input asp-for="Data.UserName" type="text" placeholder="UserName" />
+        <span asp-validation-for="Data.UserName" class="text-danger"></span>
+
+    </div>
+    <div class="form-control">
+        <label asp-for="Data.Password">Password</label>
+        <input asp-for="Data.Password" type="password" placeholder="Password" />
+        <span asp-validation-for="Data.Password" class="text-danger"></span>
+
+    </div>
+    <div class="form-control">
+        <label asp-for="Data.Email">Email</label>
+        <input asp-for="Data.Email" type="email" placeholder="Email" />
+        <span asp-validation-for="Data.Email" class="text-danger"></span>
+
+    </div>
+    <button type="submit" asp-controller="User" asp-action="UpdateUser">Save</button>
+    <button asp-controller="" asp-action="">Cancle</button>
+
+</form>

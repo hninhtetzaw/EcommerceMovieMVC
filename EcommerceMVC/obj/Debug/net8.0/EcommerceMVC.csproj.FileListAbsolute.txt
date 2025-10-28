@@ -259,4 +259,6 @@ D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\obj\Debug\net8.
 D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.pdb
 D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.genruntimeconfig.cache
 D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\obj\Debug\net8.0\ref\EcommerceMVC.dll
+D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\HHZDotNetTraining\EcommerceMVC\EcommerceMovieMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

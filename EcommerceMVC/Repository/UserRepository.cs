@@ -18,23 +18,47 @@ namespace EcommerceMVC.Repository
 
         public TblUser GetUserByIdAsync(string id)
         {
-            throw new NotImplementedException();
+            var user = _db.TblUsers.Where(u => u.Id == id).FirstOrDefault();
+            return user;
         }
         public TblUser CreateUserAsync(TblUser user)
         {
-            throw new NotImplementedException();
+            var existUser = _db.TblUsers.Where(u=>u.Email == user.Email).FirstOrDefault();
+           
+            if(existUser is not null)
+            {
+                return null;
+            }
+
+            var userRole = _db.TblRoles.Where(r => r.RoleName == "User").FirstOrDefault();
+            user.Role = userRole;
+
+            _db.Add(user);
+            _db.SaveChanges();
+
+            return user;
         }
 
         public TblUser DeleteUserAsync(string id)
         {
             throw new NotImplementedException();
         }
-
-      
-
         public TblUser UpdateUserAsync(string id, TblUser user)
         {
-            throw new NotImplementedException();
+           var userExist = _db.TblUsers.Where(u => u.Id == id).FirstOrDefault();
+           if(userExist is null)
+            {
+                return null;
+            }
+           
+           userExist.UserName = user.UserName;
+           userExist.Email = user.Email;
+           userExist.Role = user.Role;
+           userExist.Pasword = user.Pasword;
+            _db.Add(userExist);
+            _db.SaveChanges();
+
+            return userExist;
         }
     }
 }

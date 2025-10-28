@@ -5,6 +5,7 @@ using EcommerceMVC.Service;
 using EcommerceMVC.Services;
 using EcommerceMVC.Interfaces.IRepositories;
 using EcommerceMVC.Interfaces.IServices;
+using EcommerceMVC.Models.Mappers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,7 +29,7 @@ builder.Services.AddScoped<IUserService,  UserService>();
 
 builder.Services.AddHttpContextAccessor(); // For accessing HttpContext in services
 
-
+builder.Services.AddAutoMapper(typeof(AutoMappers));
 
 var app = builder.Build();
 
