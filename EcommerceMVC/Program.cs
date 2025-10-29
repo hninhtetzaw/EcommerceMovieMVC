@@ -27,6 +27,9 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService,  UserService>();
 
+builder.Services.AddScoped<IRoleRepository, RoleRepository>();
+builder.Services.AddScoped<IRoleService, RoleService>();
+
 builder.Services.AddHttpContextAccessor(); // For accessing HttpContext in services
 
 builder.Services.AddAutoMapper(typeof(AutoMappers));

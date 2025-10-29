@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using EcommerceMVC.Data;
 
 namespace EcommerceMVC.Models.UserDtos
 {
@@ -10,12 +11,16 @@ namespace EcommerceMVC.Models.UserDtos
         [StringLength(50)]
         public string UserName { get; set; }
 
-        [Required]
-        [StringLength(30)]
-        public string Password { get; set; }
+        //[Required]
+        //[StringLength(30)]
+        //public string Password { get; set; }
 
         [Required]
         [StringLength(40)]
         public string Email { get; set; }
+
+        [Required]
+        public string Role { get; set; }
+
     }
 }

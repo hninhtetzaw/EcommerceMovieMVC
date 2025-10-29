@@ -1,12 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EcommerceMVC.Interfaces.IServices;
+using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceMVC.Controllers
 {
     public class RoleController : Controller
     {
-        public IActionResult Index()
+        private readonly IRoleService _service;
+        public RoleController(IRoleService service)
         {
-            return View();
+            _service = service;
+            
+        }
+
+        [HttpGet]
+        public IActionResult GetRoles()
+        {
+            var roles = _service.GetRoles();
+            return View(roles);
         }
     }
 }

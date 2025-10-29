@@ -110,7 +110,7 @@ namespace EcommerceMVC.Service
             var passwordHasher = new PasswordHasher<TblUser>();
             var pwd = passwordHasher.HashPassword(userDomain,newUser.Password);
 
-            userDomain.Pasword = pwd;
+            userDomain.Password = pwd;
 
             
             var createdUser = _userRepo.CreateUserAsync(userDomain);
@@ -150,7 +150,8 @@ namespace EcommerceMVC.Service
     
         public ApiResponseModel<ResponseUserDto> UpdateUser(string id, UpdateUserDto updateUser)
         {
-            var userDomain = _mapper.Map<TblUser>(updateUser);
+            var userDomain = _mapper.Map<TblUser>(updateUser);           
+
             var user = _userRepo.UpdateUserAsync(id, userDomain);
             if (user is null) 
             {

@@ -53,9 +53,9 @@ namespace EcommerceMVC.Repository
            
            userExist.UserName = user.UserName;
            userExist.Email = user.Email;
-           userExist.Role = user.Role;
-           userExist.Pasword = user.Pasword;
-            _db.Add(userExist);
+           //userExist.Role = userExist.Role;
+           //userExist.Password = userExist.Password;
+            _db.TblUsers.Update(userExist);
             _db.SaveChanges();
 
             return userExist;
