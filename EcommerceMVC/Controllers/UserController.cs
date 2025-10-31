@@ -64,7 +64,7 @@ namespace EcommerceMVC.Controllers
                 Id = user.Data.Id,
                 UserName = user.Data.UserName,
                 Email = user.Data.Email,
-                Role = user.Data.Role
+                RoleId = user.Data.RoleId
                 //Password = user.Data.Password
             };
             var roleLists = _roleService.GetRoles();
@@ -85,12 +85,36 @@ namespace EcommerceMVC.Controllers
             //return Ok(users);
             return View(response);
         }
+       
         [HttpGet]
         public IActionResult CreateUser()
         {
             return View();
         }
 
+        [HttpPost]
+        public IActionResult CreateUser(RequestNewUserDto newUser)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            var user = _userService.CreateUser(newUser);
+
+            if (user is null)
+            {
+                return View();
+            }
+            //return Ok(user);
+            return RedirectToAction("UserCreateView");
+        }
+
+        //for view only
+        [HttpGet]
+        public IActionResult UserCreateView()
+        {
+            return View();
+        }
         //old
         //[HttpPost]
         //public IActionResult UpdateUser(string id, [Bind(Prefix = "Data")]  UpdateUserDto user)
@@ -114,29 +138,6 @@ namespace EcommerceMVC.Controllers
 
             var updatedUser = _userService.UpdateUser(id, user);
             return RedirectToAction("UserUpdateView");
-        }
-        [HttpPost]
-        public IActionResult CreateUser(RequestNewUserDto newUser)
-        {
-            if (!ModelState.IsValid)
-            {
-                return View();
-            }
-            var user = _userService.CreateUser(newUser);
-
-            if(user is null)
-            {
-                return View();
-            }
-            //return Ok(user);
-            return RedirectToAction("UserCreateView");
-        }
-
-        //for view only
-        [HttpGet]
-        public IActionResult UserCreateView()
-        {
-            return View();
         }
 
         [HttpGet]

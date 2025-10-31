@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8+yRqXcz+4M=",
+  "dgSpecHash": "k4Tt+PkIyps=",
   "success": true,
   "projectFilePath": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\EcommerceMVC.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\mysql.data\\8.3.0\\mysql.data.8.3.0.nupkg.sha512",
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\mysql.entityframeworkcore\\8.0.0\\mysql.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\hninhtet.zaw\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

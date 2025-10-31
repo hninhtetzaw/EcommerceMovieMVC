@@ -1,5 +1,6 @@
 ﻿using EcommerceMVC.Data;
 using EcommerceMVC.Interfaces.IRepositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceMVC.Repository
 {
@@ -12,7 +13,14 @@ namespace EcommerceMVC.Repository
         }
         public List<TblUser> GetAllUserAsync()
         {
-           var userLists = _db.TblUsers.ToList();
+            var userLists = _db.TblUsers.Include("Role").ToList();
+            //var userLists = _db.TblUsers.Include("Role").Select(u => new
+            //{
+            //    u.UserName,
+            //    u.Email,
+            //    u.Role.RoleName
+            //}).ToList();
+
             return userLists;
         }
 
@@ -45,16 +53,29 @@ namespace EcommerceMVC.Repository
         }
         public TblUser UpdateUserAsync(string id, TblUser user)
         {
-           var userExist = _db.TblUsers.Where(u => u.Id == id).FirstOrDefault();
+            var userRoleId = "";
+            var userExist = _db.TblUsers.Where(u => u.Id == id).FirstOrDefault();
            if(userExist is null)
             {
                 return null;
             }
-           
-           userExist.UserName = user.UserName;
+
+           if(user.RoleId == "Admin")
+            {
+                userRoleId = _db.TblRoles.Where(r=>r.RoleName == "Admin").Select(r => r.Id).FirstOrDefault();
+
+            }
+            else
+            {
+                userRoleId = _db.TblRoles.Where(r => r.RoleName == "User").Select(r => r.Id).FirstOrDefault();
+
+            }
+
+            userExist.UserName = user.UserName;
            userExist.Email = user.Email;
-           //userExist.Role = userExist.Role;
-           //userExist.Password = userExist.Password;
+            //userExist.RoleId = user.RoleId;
+            userExist.RoleId =userRoleId;
+            //userExist.Password = userExist.Password;
             _db.TblUsers.Update(userExist);
             _db.SaveChanges();
 

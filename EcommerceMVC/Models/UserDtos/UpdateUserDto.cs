@@ -20,7 +20,7 @@ namespace EcommerceMVC.Models.UserDtos
         public string Email { get; set; }
 
         [Required]
-        public string Role { get; set; }
+        public string RoleId { get; set; }
 
     }
 }

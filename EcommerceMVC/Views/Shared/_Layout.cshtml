@@ -29,15 +29,15 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movies Management</a>
-                        </li>
-                        <li class="nav-item">
-                             <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMoviesUser">MoviesCatalog</a> 
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark text-end" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories</a>
-                        </li>
+                        @* <li class="nav-item"> *@
+                        @*     <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movies Management</a> *@
+                        @* </li> *@
+                        @* <li class="nav-item"> *@
+                        @*      <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMoviesUser">MoviesCatalog</a>  *@
+                        @* </li> *@
+                        @* <li class="nav-item"> *@
+                        @*     <a class="nav-link text-dark text-end" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories</a> *@
+                        @* </li> *@
                         <li class="nav-item dropdown">                            
                                 <a class="btn btn-secondary dropdown-toggle nav-link"
                                    href="#"
@@ -51,20 +51,24 @@
 
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                 <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movie Management</a>
-                                    <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Another action</a>
-                                    <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Something else here</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="User" asp-action="GetAllUsers">Users Management</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories Management</a>
+
+                                @* <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Another action</a> *@
+                                @* <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Something else here</a> *@
                                 </div>
                            
                         </li>
-                        <li class="nav-item">
-                            <button class="btn btn-primary">
+                        <li class="nav-item align-end">
+                           
+                            <button class="btn btn-primary ms-4">
+                                <a class="nav-link text-dark text-end" asp-area="" asp-controller="Auth" asp-action="Login">Login</a>
+                            </button>
+                            <button class="btn btn-primary ms-4">
                                 <a class="nav-link text-dark text-end" asp-area="" asp-controller="User" asp-action="CreateUser">Register</a>
                             </button>
                         </li>
-
-                        <li class="nav-item">                           
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="GetAllUsers">GetUsers</a>                            
-                        </li>
+                      
                     </ul>
                 </div>
             </div>

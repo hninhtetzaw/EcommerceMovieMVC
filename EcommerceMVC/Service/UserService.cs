@@ -5,6 +5,7 @@ using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.Models;
 using EcommerceMVC.Models.UserDtos;
 using Microsoft.AspNetCore.Identity;
+using Newtonsoft.Json;
 using Org.BouncyCastle.Crypto.Paddings;
 
 namespace EcommerceMVC.Service
@@ -26,25 +27,26 @@ namespace EcommerceMVC.Service
 
             //map domain to dto
             //before auto mapper
-            //var userDto = new List<ResponseUserDto>();
-            //foreach (var user in users)
-            //{
-            //    ResponseUserDto userList = new ResponseUserDto 
-            //    { 
-            //        UserName = user.UserName,
-            //        UserEmail = user.Email,
-            //        CreatedDate = user.CreatedDate
-            //    };
-            //    userDto.Add(userList);
+            var userDto = new List<ResponseUserDto>();
+            foreach (var user in users)
+            {
+                ResponseUserDto userList = new ResponseUserDto
+                {
+                    UserName = user.UserName,
+                    Email = user.Email,
+                    RoleName = user.Role.RoleName
+                    //CreatedDate = user.CreatedDate
+                };
+                userDto.Add(userList);
 
-            //}
-            
-            var mappedUser = _mapper.Map<List<ResponseUserDto>>(users);
+            }
+
+            //var mappedUser = _mapper.Map<List<ResponseUserDto>>(users);
 
             response = new ApiResponseModel<List<ResponseUserDto>> {
                 success = true,
                 message = "User List Fetched Successfully",
-                Data = mappedUser,
+                Data = userDto,
                 Errors = null
             };
 
@@ -150,7 +152,19 @@ namespace EcommerceMVC.Service
     
         public ApiResponseModel<ResponseUserDto> UpdateUser(string id, UpdateUserDto updateUser)
         {
-            var userDomain = _mapper.Map<TblUser>(updateUser);           
+            //var userDomain = _mapper.Map<TblUser>(updateUser);
+            //var role = JsonConvert.DeserializeObject(updateUser.Role);
+
+            //var userDomain = _mapper.Map<TblUser>(updateUser);
+
+            var userDomain = new TblUser
+            {
+                UserName = updateUser.UserName,
+                Email = updateUser.Email,
+                //Role = updateUser.Role
+                RoleId = updateUser.RoleId
+            };
+
 
             var user = _userRepo.UpdateUserAsync(id, userDomain);
             if (user is null) 
