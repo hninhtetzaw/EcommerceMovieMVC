@@ -12,6 +12,8 @@ namespace EcommerceMVC.Interfaces.IServices
 
         ApiResponseModel<ResponseUserDto> UpdateUser(string id, UpdateUserDto newUser);
 
+        ResponseUserDto VerifyUser(string username, string password);
+
 
 
     }

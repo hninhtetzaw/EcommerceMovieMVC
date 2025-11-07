@@ -3,389 +3,226 @@
   "WorkspaceRootPath": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\category\\getcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\category\\getcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\movie\\getmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\movie\\getmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\jwthelper\\tokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\jwthelper\\tokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\logindtos\\responselogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\logindtos\\responselogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\logindtos\\requestlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\logindtos\\requestlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\data\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\userdtos\\responseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\userdtos\\responseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\appsetting\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\appsetting\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\data\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\user\\createuserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\user\\createuserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\interfaces\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\interfaces\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\userdtos\\requestnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\userdtos\\requestnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\data\\tblmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\tblmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\requestnewmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\requestnewmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\userdtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\userdtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\combinedviewdto\\updateuserviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\combinedviewdto\\updateuserviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\combinedviewdto\\addmovieviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\combinedviewdto\\addmovieviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\movie\\getmoviesuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\movie\\getmoviesuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\apiresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\apiresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\movie\\editmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\movie\\editmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\data\\tblmoviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\tblmoviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\mappers\\automappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\mappers\\automappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\roledtos\\responseroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\roledtos\\responseroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\models\\updatemoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\updatemoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|d:\\hhzdotnettraining\\ecommercemvc\\ecommercemoviemvc\\ecommercemvc\\views\\user\\userupdateview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514C7083-7697-4828-B513-08D53947C1D5}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\user\\userupdateview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 831,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T07:45:26.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T07:45:25.46Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:55:21.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EcommerceMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAAJAAAAAAAAAA==",
+              "Title": "TokenGenerate.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\JwtHelper\\TokenGenerate.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\JwtHelper\\TokenGenerate.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\JwtHelper\\TokenGenerate.cs",
+              "RelativeToolTip": "EcommerceMVC\\JwtHelper\\TokenGenerate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA2wCQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:26:43.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T06:46:36.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T06:54:02.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MovieDbContext.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\MovieDbContext.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\MovieDbContext.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\MovieDbContext.cs",
-              "RelativeToolTip": "EcommerceMVC\\Data\\MovieDbContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwv7EAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:52:02.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TblRole.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblRole.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblRole.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblRole.cs",
-              "RelativeToolTip": "EcommerceMVC\\Data\\TblRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:51:58.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TblUser.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblUser.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblUser.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblUser.cs",
-              "RelativeToolTip": "EcommerceMVC\\Data\\TblUser.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:51:50.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Interfaces\\IRepositories\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Interfaces\\IRepositories\\IMovieRepository.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Interfaces\\IRepositories\\IMovieRepository.cs",
-              "RelativeToolTip": "EcommerceMVC\\Interfaces\\IRepositories\\IMovieRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:04:14.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AddMovieViewDto.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
-              "RelativeToolTip": "EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:41:14.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetCategories.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Category\\GetCategories.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Category\\GetCategories.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Category\\GetCategories.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\Category\\GetCategories.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T07:23:40.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddCategory.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\Category\\AddCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T07:22:05.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TblMovie.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblMovie.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblMovie.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblMovie.cs",
-              "RelativeToolTip": "EcommerceMVC\\Data\\TblMovie.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T05:05:08.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TblMovieCategory.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblMovieCategory.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblMovieCategory.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblMovieCategory.cs",
-              "RelativeToolTip": "EcommerceMVC\\Data\\TblMovieCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T05:18:57.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Repository\\MovieRepository.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\MovieRepository.cs",
-              "RelativeToolTip": "EcommerceMVC\\Repository\\MovieRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T05:03:48.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Program.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\Program.cs",
               "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Program.cs",
               "RelativeToolTip": "EcommerceMVC\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T04:03:24.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T06:40:31.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddMovie.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T03:59:29.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetMoviesUser.cshtml",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\GetMoviesUser.cshtml",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Movie\\GetMoviesUser.cshtml",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\GetMoviesUser.cshtml",
-              "RelativeToolTip": "EcommerceMVC\\Views\\Movie\\GetMoviesUser.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T09:13:56.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "GetMovies.cshtml",
               "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\GetMovies.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Movie\\GetMovies.cshtml",
               "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\GetMovies.cshtml",
               "RelativeToolTip": "EcommerceMVC\\Views\\Movie\\GetMovies.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T09:07:48.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RequestNewMovieModel.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\RequestNewMovieModel.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\RequestNewMovieModel.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\RequestNewMovieModel.cs",
-              "RelativeToolTip": "EcommerceMVC\\Models\\RequestNewMovieModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T09:06:11.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\MovieService.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Service\\MovieService.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\MovieService.cs",
-              "RelativeToolTip": "EcommerceMVC\\Service\\MovieService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAEwFEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T09:05:41.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "EcommerceMVC\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:24:56.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "EcommerceMVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:24:52.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:06:26.366Z"
             },
             {
               "$type": "Document",
@@ -395,15 +232,447 @@
               "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\MovieController.cs",
               "RelativeToolTip": "EcommerceMVC\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T07:24:50.747Z",
+              "WhenOpened": "2025-10-29T08:54:58.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Service\\UserService.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\UserService.cs",
+              "RelativeToolTip": "EcommerceMVC\\Service\\UserService.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAASwMwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:07:01.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceMVC\\appsettings.json",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeToolTip": "EcommerceMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T05:23:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T09:56:48.557Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:45:37.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddMovie.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Movie\\AddMovie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:02:14.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:54:11.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Interfaces\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeToolTip": "EcommerceMVC\\Interfaces\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:08:33.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseLoginDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\LoginDtos\\ResponseLoginDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\LoginDtos\\ResponseLoginDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\LoginDtos\\ResponseLoginDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\LoginDtos\\ResponseLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:36:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestLoginDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\LoginDtos\\RequestLoginDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\LoginDtos\\RequestLoginDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\LoginDtos\\RequestLoginDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\LoginDtos\\RequestLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:36:24.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseUserDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\UserDtos\\ResponseUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:53:38.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "EcommerceMVC\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:09:19.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblUser.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblUser.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblUser.cs",
+              "RelativeToolTip": "EcommerceMVC\\Data\\TblUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:54:31.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\AppSetting\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\AppSetting\\JwtSetting.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\AppSetting\\JwtSetting.cs",
+              "RelativeToolTip": "EcommerceMVC\\AppSetting\\JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:26:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EcommerceMVC.csproj",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\EcommerceMVC.csproj",
+              "RelativeDocumentMoniker": "EcommerceMVC\\EcommerceMVC.csproj",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\EcommerceMVC.csproj",
+              "RelativeToolTip": "EcommerceMVC\\EcommerceMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T06:44:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EcommerceMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T05:25:01.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllUsers.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\User\\GetAllUsers.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\User\\GetAllUsers.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:02:54.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwEAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:30:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\User\\CreateUser.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\CreateUser.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\User\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:02:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TblRole.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblRole.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\TblRole.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Data\\TblRole.cs",
+              "RelativeToolTip": "EcommerceMVC\\Data\\TblRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:00:59.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\User\\EditUser.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\EditUser.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\User\\EditUser.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T08:54:27.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:30:22.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestNewUserDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\RequestNewUserDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\UserDtos\\RequestNewUserDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\RequestNewUserDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\UserDtos\\RequestNewUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:40:56.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserView.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\CreateUserView.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\User\\CreateUserView.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\CreateUserView.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\User\\CreateUserView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T03:44:01.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\UserDtos\\UpdateUserDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UserDtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\UserDtos\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:27:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateUserViewDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\UpdateUserViewDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\CombinedViewDto\\UpdateUserViewDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\UpdateUserViewDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\CombinedViewDto\\UpdateUserViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:24:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AutoMappers.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\Mappers\\AutoMappers.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\Mappers\\AutoMappers.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\Mappers\\AutoMappers.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\Mappers\\AutoMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:46:12.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddMovieViewDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\CombinedViewDto\\AddMovieViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:21:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResponseRoleDto.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\RoleDtos\\ResponseRoleDto.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\RoleDtos\\ResponseRoleDto.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\RoleDtos\\ResponseRoleDto.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\RoleDtos\\ResponseRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:26:38.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:28:14.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Repository\\RoleRepository.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\RoleRepository.cs",
+              "RelativeToolTip": "EcommerceMVC\\Repository\\RoleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:28:50.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiResponseModel.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\ApiResponseModel.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\ApiResponseModel.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\ApiResponseModel.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\ApiResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:02:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateMovieModel.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UpdateMovieModel.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Models\\UpdateMovieModel.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Models\\UpdateMovieModel.cs",
+              "RelativeToolTip": "EcommerceMVC\\Models\\UpdateMovieModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:24:07.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Repository\\MovieRepository.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "EcommerceMVC\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:37:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Service\\MovieService.cs",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Service\\MovieService.cs",
+              "RelativeToolTip": "EcommerceMVC\\Service\\MovieService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:37:45.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditMovie.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\EditMovie.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Movie\\EditMovie.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\Movie\\EditMovie.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Movie\\EditMovie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T07:27:55.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserUpdateView.cshtml",
+              "DocumentMoniker": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\UserUpdateView.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\User\\UserUpdateView.cshtml",
+              "ToolTip": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\Views\\User\\UserUpdateView.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\User\\UserUpdateView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:30:13.212Z"
             }
           ]
         },
         {
-          "DockedWidth": 355,
+          "DockedHeight": 129,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -417,7 +686,7 @@
           ]
         },
         {
-          "DockedWidth": 1093,
+          "DockedHeight": 75,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -427,7 +696,7 @@
           ]
         },
         {
-          "DockedWidth": 1093,
+          "DockedHeight": 139,
           "SelectedChildIndex": -1,
           "Children": [
             {

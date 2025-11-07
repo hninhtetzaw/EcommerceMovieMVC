@@ -8,9 +8,11 @@ using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
 using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.Models.CategoryDtos;
 using EcommerceMVC.Models.CombinedViewDto;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EcommerceMVC.Controllers
 {
+    [Authorize(Roles ="User")]
     public class MovieController : Controller
     {
         private readonly IMovieService _service;
@@ -28,6 +30,7 @@ namespace EcommerceMVC.Controllers
 
         //Movie/GetMovies
         [HttpGet]
+        //[Authorize(Roles = "User")]
         //[HttpPost]
         public IActionResult GetMovies(string? searchString)
         { 
@@ -44,6 +47,7 @@ namespace EcommerceMVC.Controllers
 
         //for categories dropdown list
         [HttpGet]
+        //[Authorize(Roles = "Admin")]
         public IActionResult AddMovie(string? searchString)
         {
             var categories = _categoryService.GetAllCategories();
@@ -58,6 +62,8 @@ namespace EcommerceMVC.Controllers
 
         //Movie/AddMovies/
         [HttpPost]
+        //[Authorize(Roles = "Admin")]
+
         public IActionResult AddMovie([FromForm] AddMovieViewDto request)
         {
             //if (!ModelState.IsValid)
@@ -86,6 +92,8 @@ namespace EcommerceMVC.Controllers
         //}
 
         [HttpGet]
+        //[Authorize(Roles = "Admin")]
+
         public IActionResult EditMovie(string id)
         {
 
@@ -111,6 +119,8 @@ namespace EcommerceMVC.Controllers
         }
 
         [HttpPost]
+        //[Authorize(Roles = "Admin")]
+
         public IActionResult UpdateMovie(string id, UpdateMovieModel request)
         {
             //for this , need to same in the view , so, i change the view to updatemoviemodel
@@ -131,6 +141,8 @@ namespace EcommerceMVC.Controllers
         }
 
         [HttpPost]
+        //[Authorize(Roles = "Admin")]
+
         public IActionResult DeleteMovie(string id) 
         {
             var movie = _service.DeleteMovie(id);

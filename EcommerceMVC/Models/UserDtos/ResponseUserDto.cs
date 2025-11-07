@@ -10,7 +10,7 @@
 
         public string RoleId { get; set; }
 
-        //for update 
-        //public string Password { get; set; }
+        //for verifypassword
+        public string Password { get; set; }
     }
 }

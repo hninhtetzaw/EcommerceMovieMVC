@@ -6,6 +6,7 @@ using EcommerceMVC.Models;
 using EcommerceMVC.Models.UserDtos;
 using Microsoft.AspNetCore.Identity;
 using Newtonsoft.Json;
+using Org.BouncyCastle.Asn1.Ocsp;
 using Org.BouncyCastle.Crypto.Paddings;
 
 namespace EcommerceMVC.Service
@@ -34,7 +35,8 @@ namespace EcommerceMVC.Service
                 {
                     UserName = user.UserName,
                     Email = user.Email,
-                    RoleName = user.Role.RoleName
+                    RoleName = user.Role.RoleName,
+                    Password = user.Password
                     //CreatedDate = user.CreatedDate
                 };
                 userDto.Add(userList);
@@ -186,6 +188,36 @@ namespace EcommerceMVC.Service
             };
 
 
+        }
+    
+        public ResponseUserDto VerifyUser(string username, string password)
+        {
+          
+            //var existingUser = GetAllUsers().Data.Where(u => u.UserName == username).FirstOrDefault();
+            var existingUser = _userRepo.GetAllUserAsync().Where(u =>  u.UserName == username).FirstOrDefault();
+
+            if(existingUser is null)
+            {
+                return null;
+            }
+
+            var passwordHasher = new PasswordHasher<TblUser>();
+            var result = passwordHasher.VerifyHashedPassword(existingUser, existingUser.Password, password);
+
+            if (result != Microsoft.AspNetCore.Identity.PasswordVerificationResult.Success)
+            {
+                return null;
+            }
+
+            var response = new ResponseUserDto 
+            { 
+                UserName = existingUser.UserName,
+                Password = existingUser.Password,
+                RoleName = existingUser.Role.RoleName
+            };
+
+
+            return response;
         }
     }
 }
