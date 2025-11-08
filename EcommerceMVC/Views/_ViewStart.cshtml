@@ -1,3 +1,26 @@
-﻿@{
-    Layout = "_Layout";
+﻿@* @{ *@
+@*     Layout = "_Layout"; *@
+@* } *@
+
+
+
+
+@{
+    // 1. Set the default layout path to the Public layout (for unauthenticated users)
+    string layoutPath = "~/Views/Shared/_Layout.cshtml";
+
+    // 2. ONLY apply role-based layouts IF the user is authenticated
+    if (User.Identity.IsAuthenticated)
+    {
+        if (User.IsInRole("Admin"))
+        {
+            layoutPath = "~/Views/Shared/_LayoutAdmin.cshtml";
+        }
+        else if (User.IsInRole("User"))
+        {
+            layoutPath = "~/Views/Shared/_LayoutUser.cshtml";
+        }
+    }
+
+    Layout = layoutPath;
 }
