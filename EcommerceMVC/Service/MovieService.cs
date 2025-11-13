@@ -14,7 +14,9 @@ public class MovieService:IMovieService
     private readonly IWebHostEnvironment _hostingEnvironment;
     private readonly IHttpContextAccessor _httpContextAccessor;
 
-    public MovieService(IMovieRepository repo, IWebHostEnvironment hostEnvironment, IHttpContextAccessor httpContextAccessor)
+    public MovieService(IMovieRepository repo, 
+                        IWebHostEnvironment hostEnvironment, 
+                        IHttpContextAccessor httpContextAccessor)
     {
         _repo = repo;
         _hostingEnvironment = hostEnvironment;
