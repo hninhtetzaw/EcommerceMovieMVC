@@ -2,6 +2,8 @@
 using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.JwtHelper;
 using EcommerceMVC.Models.LoginDtos;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MySqlX.XDevAPI;
@@ -56,28 +58,29 @@ namespace EcommerceMVC.Controllers
                 SameSite = SameSiteMode.Strict
             });
 
-            return RedirectToAction("UserView");
+
+            if(existingUser.RoleName == "User")
+            {
+                return RedirectToAction("UserDashboard","Dashboard");
 
 
-            //return Ok(new ResponseLoginDto
-            //{
-            //    Token = token,
-            //});
-          
+            }
+            else
+            {
+                return RedirectToAction("AdminDashboard","Dashboard");
+            }
 
         }
 
-        [HttpGet]
-        public IActionResult UserView()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Logout()
         {
-            return View();
+            // Optional: Clear any server-side session data if you are using it
+            // HttpContext.Session.Clear(); 
+            Response.Cookies.Delete("AuthToken");
+            return RedirectToAction("Index", "Home");
         }
-
-        //[HttpPost]
-        //public IActionResult Login()
-        //{
-        //    return View();
-        //}
     }
 
    

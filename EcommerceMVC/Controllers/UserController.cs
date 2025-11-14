@@ -55,7 +55,6 @@ namespace EcommerceMVC.Controllers
         [HttpGet]
         public IActionResult EditUser(string id)
         {
-
             var response = new ApiResponseModel<UpdateUserViewDto>();
             var user = _userService.GetUserById(id);
 

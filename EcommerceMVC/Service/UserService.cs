@@ -33,6 +33,7 @@ namespace EcommerceMVC.Service
             {
                 ResponseUserDto userList = new ResponseUserDto
                 {
+                    Id = user.Id,
                     UserName = user.UserName,
                     Email = user.Email,
                     RoleName = user.Role.RoleName,

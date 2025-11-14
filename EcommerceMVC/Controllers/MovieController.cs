@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EcommerceMVC.Controllers
 {
-    [Authorize(Roles ="User")]
+    //[Authorize(Roles ="User")]
     public class MovieController : Controller
     {
         private readonly IMovieService _service;
@@ -63,7 +63,6 @@ namespace EcommerceMVC.Controllers
         //Movie/AddMovies/
         [HttpPost]
         //[Authorize(Roles = "Admin")]
-
         public IActionResult AddMovie([FromForm] AddMovieViewDto request)
         {
             //if (!ModelState.IsValid)

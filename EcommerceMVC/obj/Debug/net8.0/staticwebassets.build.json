@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SL/wDFKPydFy/sXY/RxOI3TTwO0MmTtcYIO32MKlChI=",
+  "Hash": "TKUFMp394MLY7JbP+HNjsMAkG0+JBhN0LayRxDkPp0w=",
   "Source": "EcommerceMVC",
   "BasePath": "_content/EcommerceMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EcommerceMVC\\wwwroot",
       "Source": "EcommerceMVC",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "EcommerceMVC#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "4fjap+zfs/UOHTZVMcLAt/o/FKLJ5mvTk0zRXeinwcc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css"
+      "OriginalItemSpec": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "EcommerceMVC#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "4fjap+zfs/UOHTZVMcLAt/o/FKLJ5mvTk0zRXeinwcc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/5c9245a1-340f-47bb-8279-eb9af96fed70#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/696d0dcc-3fa0-4390-9b75-a4a2ad54780b#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/78a533e3-5979-4275-8f4c-e62e399dabc7#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/a28a035e-e44a-4af9-a07a-d851befde8d2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/bb07f9ca-20b4-4971-8c06-3946531c7736#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/c2d899d1-63f2-4f2c-94e2-3d91b0177e05#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/c3b95d56-360a-48a9-a961-461ede955323#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/cc6555ff-cff8-412f-ae38-eb0449b20d3f#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/d671a315-ebf0-4b38-87e2-90682caede54#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/dabe2eff-fe0d-4365-93f4-f041fbcaa4dd#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "images/fb723bee-5329-48a5-982c-d4ea76e706cb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EcommerceMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
+      "ContentRoot": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\",
       "BasePath": "_content/EcommerceMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1658,7 +1658,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1679,7 +1679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1703,7 +1703,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1724,7 +1724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1740,7 +1740,7 @@
     },
     {
       "Route": "EcommerceMVC.bundle.scp.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1761,7 +1761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 04:07:20 GMT"
+          "Value": "Fri, 14 Nov 2025 13:12:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1777,7 +1777,7 @@
     },
     {
       "Route": "EcommerceMVC.l3anajz7dw.bundle.scp.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1798,7 +1798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 04:07:20 GMT"
+          "Value": "Fri, 14 Nov 2025 13:12:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1822,7 +1822,7 @@
     },
     {
       "Route": "EcommerceMVC.l3anajz7dw.styles.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1843,7 +1843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 04:07:20 GMT"
+          "Value": "Fri, 14 Nov 2025 13:12:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1867,7 +1867,7 @@
     },
     {
       "Route": "EcommerceMVC.styles.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceMVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 04:07:20 GMT"
+          "Value": "Fri, 14 Nov 2025 13:12:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1904,7 +1904,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1925,7 +1925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1949,7 +1949,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1970,7 +1970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1986,7 +1986,7 @@
     },
     {
       "Route": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3.5omv0x3ray.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2007,7 +2007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:11:14 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2031,7 +2031,7 @@
     },
     {
       "Route": "images/010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\010f7b82-b68f-49ab-8da0-55ec9f9d98a3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2052,7 +2052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:11:14 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2068,7 +2068,7 @@
     },
     {
       "Route": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2089,7 +2089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 06:42:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2113,7 +2113,7 @@
     },
     {
       "Route": "images/18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\18de6e4d-9290-416d-bc61-6066d8b7b20c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2134,7 +2134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 06:42:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2150,7 +2150,7 @@
     },
     {
       "Route": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.5o7mczgjby.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2171,7 +2171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 04:51:36 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2195,7 +2195,7 @@
     },
     {
       "Route": "images/1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\1c7f11b7-9e9c-430d-9fae-1b43b7b6dbb9.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2216,7 +2216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 04:51:36 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2232,7 +2232,7 @@
     },
     {
       "Route": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2253,7 +2253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 05:11:42 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2277,7 +2277,7 @@
     },
     {
       "Route": "images/2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2298,7 +2298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 05:11:42 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2314,7 +2314,7 @@
     },
     {
       "Route": "images/5c9245a1-340f-47bb-8279-eb9af96fed70.fn04o16ima.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2335,7 +2335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:01:52 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2359,7 +2359,7 @@
     },
     {
       "Route": "images/5c9245a1-340f-47bb-8279-eb9af96fed70.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2380,7 +2380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:01:52 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2396,7 +2396,7 @@
     },
     {
       "Route": "images/696d0dcc-3fa0-4390-9b75-a4a2ad54780b.1j4kbg4g6g.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2417,7 +2417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:51:28 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2441,7 +2441,7 @@
     },
     {
       "Route": "images/696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2462,7 +2462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:51:28 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2478,7 +2478,7 @@
     },
     {
       "Route": "images/6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.fn0ug1tf2h.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2499,7 +2499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:57:23 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2523,7 +2523,7 @@
     },
     {
       "Route": "images/6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\6ceb7da7-b1b2-41e3-9ac2-c87e5dd7747a.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2544,7 +2544,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:57:23 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2560,7 +2560,7 @@
     },
     {
       "Route": "images/78a533e3-5979-4275-8f4c-e62e399dabc7.05nrq8qgop.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2581,7 +2581,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:56:24 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2605,7 +2605,7 @@
     },
     {
       "Route": "images/78a533e3-5979-4275-8f4c-e62e399dabc7.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2626,7 +2626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:56:24 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2642,7 +2642,7 @@
     },
     {
       "Route": "images/a28a035e-e44a-4af9-a07a-d851befde8d2.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2663,7 +2663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:27:55 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2687,7 +2687,7 @@
     },
     {
       "Route": "images/a28a035e-e44a-4af9-a07a-d851befde8d2.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2708,7 +2708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:27:55 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2724,7 +2724,7 @@
     },
     {
       "Route": "images/bb07f9ca-20b4-4971-8c06-3946531c7736.fn0ug1tf2h.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2745,7 +2745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:49:28 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2769,7 +2769,7 @@
     },
     {
       "Route": "images/bb07f9ca-20b4-4971-8c06-3946531c7736.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2790,7 +2790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 09:49:28 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2806,7 +2806,7 @@
     },
     {
       "Route": "images/c2d899d1-63f2-4f2c-94e2-3d91b0177e05.fn04o16ima.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2827,7 +2827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:05:54 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2851,7 +2851,7 @@
     },
     {
       "Route": "images/c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 10:05:54 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2888,7 +2888,7 @@
     },
     {
       "Route": "images/c3b95d56-360a-48a9-a961-461ede955323.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +2909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 05:09:45 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,7 +2933,7 @@
     },
     {
       "Route": "images/c3b95d56-360a-48a9-a961-461ede955323.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c3b95d56-360a-48a9-a961-461ede955323.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 05:09:45 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2970,7 +2970,7 @@
     },
     {
       "Route": "images/cc6555ff-cff8-412f-ae38-eb0449b20d3f.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:31:04 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3015,7 +3015,7 @@
     },
     {
       "Route": "images/cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\cc6555ff-cff8-412f-ae38-eb0449b20d3f.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3036,7 +3036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:31:04 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3052,7 +3052,7 @@
     },
     {
       "Route": "images/d671a315-ebf0-4b38-87e2-90682caede54.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3073,7 +3073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:19:55 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3097,7 +3097,7 @@
     },
     {
       "Route": "images/d671a315-ebf0-4b38-87e2-90682caede54.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\d671a315-ebf0-4b38-87e2-90682caede54.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3118,7 +3118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:19:55 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3134,7 +3134,7 @@
     },
     {
       "Route": "images/dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3155,7 +3155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:48:17 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3179,7 +3179,7 @@
     },
     {
       "Route": "images/dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\dabe2eff-fe0d-4365-93f4-f041fbcaa4dd.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3200,7 +3200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:48:17 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3216,7 +3216,7 @@
     },
     {
       "Route": "images/fb723bee-5329-48a5-982c-d4ea76e706cb.687w8vihj4.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3237,7 +3237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:23:52 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3261,7 +3261,7 @@
     },
     {
       "Route": "images/fb723bee-5329-48a5-982c-d4ea76e706cb.png",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\fb723bee-5329-48a5-982c-d4ea76e706cb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3282,7 +3282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 04:23:52 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3298,7 +3298,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3319,7 +3319,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3335,7 +3335,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3356,7 +3356,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3380,7 +3380,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3401,7 +3401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3417,7 +3417,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3438,7 +3438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3462,7 +3462,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3483,7 +3483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3499,7 +3499,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3520,7 +3520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3544,7 +3544,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3565,7 +3565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3581,7 +3581,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3602,7 +3602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3626,7 +3626,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3647,7 +3647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3663,7 +3663,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3684,7 +3684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3708,7 +3708,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3729,7 +3729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3745,7 +3745,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3766,7 +3766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3790,7 +3790,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3811,7 +3811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3827,7 +3827,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3848,7 +3848,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3872,7 +3872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3893,7 +3893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3917,7 +3917,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3938,7 +3938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3954,7 +3954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3975,7 +3975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3999,7 +3999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4020,7 +4020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4036,7 +4036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4057,7 +4057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4073,7 +4073,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4094,7 +4094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4110,7 +4110,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4131,7 +4131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4155,7 +4155,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4176,7 +4176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4200,7 +4200,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4221,7 +4221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4237,7 +4237,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4258,7 +4258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4282,7 +4282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4303,7 +4303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4319,7 +4319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4340,7 +4340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4364,7 +4364,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4385,7 +4385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4401,7 +4401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4422,7 +4422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4446,7 +4446,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4467,7 +4467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4483,7 +4483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4504,7 +4504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4528,7 +4528,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4549,7 +4549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4565,7 +4565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4586,7 +4586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4602,7 +4602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4623,7 +4623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4647,7 +4647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4668,7 +4668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4692,7 +4692,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4713,7 +4713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4729,7 +4729,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4750,7 +4750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4774,7 +4774,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4795,7 +4795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4811,7 +4811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4832,7 +4832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4848,7 +4848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4869,7 +4869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4885,7 +4885,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4906,7 +4906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4930,7 +4930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4951,7 +4951,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4975,7 +4975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4996,7 +4996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5020,7 +5020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5041,7 +5041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5065,7 +5065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5086,7 +5086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5102,7 +5102,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5123,7 +5123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5147,7 +5147,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5168,7 +5168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5184,7 +5184,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5205,7 +5205,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5221,7 +5221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5242,7 +5242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5258,7 +5258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5279,7 +5279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5303,7 +5303,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5324,7 +5324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5348,7 +5348,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5369,7 +5369,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5385,7 +5385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5406,7 +5406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5430,7 +5430,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5451,7 +5451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5467,7 +5467,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5488,7 +5488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5512,7 +5512,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5533,7 +5533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5549,7 +5549,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5570,7 +5570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5586,7 +5586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5607,7 +5607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5631,7 +5631,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5652,7 +5652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5668,7 +5668,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5689,7 +5689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5713,7 +5713,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5734,7 +5734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5750,7 +5750,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5771,7 +5771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5787,7 +5787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5808,7 +5808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5832,7 +5832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5853,7 +5853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5869,7 +5869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5890,7 +5890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5914,7 +5914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5935,7 +5935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5959,7 +5959,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5980,7 +5980,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6004,7 +6004,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6025,7 +6025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6049,7 +6049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6070,7 +6070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6094,7 +6094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6115,7 +6115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6131,7 +6131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6152,7 +6152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6176,7 +6176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6197,7 +6197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6213,7 +6213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6234,7 +6234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6258,7 +6258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6279,7 +6279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6295,7 +6295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6316,7 +6316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6340,7 +6340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6361,7 +6361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6377,7 +6377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6398,7 +6398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6414,7 +6414,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6435,7 +6435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6459,7 +6459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6480,7 +6480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6496,7 +6496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6517,7 +6517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6541,7 +6541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6562,7 +6562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6578,7 +6578,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6599,7 +6599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6615,7 +6615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6636,7 +6636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6660,7 +6660,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6681,7 +6681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6705,7 +6705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6726,7 +6726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6742,7 +6742,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6763,7 +6763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6787,7 +6787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6808,7 +6808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6824,7 +6824,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6845,7 +6845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6869,7 +6869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6890,7 +6890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6906,7 +6906,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6927,7 +6927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6943,7 +6943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6964,7 +6964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6988,7 +6988,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7009,7 +7009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7025,7 +7025,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7046,7 +7046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7070,7 +7070,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7091,7 +7091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7115,7 +7115,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7136,7 +7136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7152,7 +7152,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7173,7 +7173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7197,7 +7197,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7218,7 +7218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7242,7 +7242,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7263,7 +7263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7279,7 +7279,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7300,7 +7300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7316,7 +7316,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7337,7 +7337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7361,7 +7361,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7382,7 +7382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7398,7 +7398,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7419,7 +7419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7443,7 +7443,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7464,7 +7464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7480,7 +7480,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7501,7 +7501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7525,7 +7525,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7546,7 +7546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7562,7 +7562,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7583,7 +7583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7607,7 +7607,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7628,7 +7628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7644,7 +7644,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7665,7 +7665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7681,7 +7681,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7702,7 +7702,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7726,7 +7726,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7747,7 +7747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7763,7 +7763,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7784,7 +7784,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7808,7 +7808,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7829,7 +7829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7853,7 +7853,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7874,7 +7874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7890,7 +7890,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7911,7 +7911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7935,7 +7935,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7956,7 +7956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:21 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7972,7 +7972,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7993,7 +7993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8017,7 +8017,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\HHZDotNetTraining\\EcommerceMVC\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8038,7 +8038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Oct 2025 07:33:20 GMT"
+          "Value": "Fri, 07 Nov 2025 10:17:23 GMT"
         },
         {
           "Name": "Cache-Control",
