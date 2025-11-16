@@ -2,49 +2,33 @@
     Layout = "_LayoutUser";
     ViewData["Title"] = "Page Title";
 }
-        <h1>User Dashboard.. Welcome!!! </h1>
 
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">              
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+@model IEnumerable<EcommerceMVC.Models.ResponseMoviesModel>
 
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">                      
-                        <li class="nav-item dropdown">
-                            <a class="btn btn-secondary dropdown-toggle nav-link"
-                               href="#"
-                               role="button"
-                               id="dropdownMenuLink"
-                               data-bs-toggle="dropdown"
-                               aria-haspopup="true"
-                               aria-expanded="false">
-                                Management
-                            </a>
+<div class="container mt-4">
+    <h1 class="mb-4">User Dashboard.. Welcome!!!</h1>
 
-                            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <a class="dropdown-item" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movie Management</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="User" asp-action="GetAllUsers">Users Management</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories Management</a>
-                            </div>
-                        </li>
-                        <li class="nav-item align-end">
-                            <button class="btn btn-primary ms-4">
-                                <a class="nav-link text-dark text-end" asp-area="" asp-controller="Auth" asp-action="Logout">Logout</a>
-                            </button>                          
-                        </li>
-                    </ul>
+    <div class="row">
+        @foreach (var movie in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img class="card-img-top" src="@movie.ImageUrl" alt="@movie.Title">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@movie.Title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary mt-auto">More...</a>
+                    </div>
                 </div>
+            </div>
+        }
+    </div>
+</div>  
 
-             </div>
-
-        </nav>
-   <form asp-controller="Auth" asp-action="Logout" method="post" style="display:inline;"> 
-       @Html.AntiForgeryToken() 
-       <button type="submit">Logout</button> 
-   </form> 
+<form asp-controller="Auth" asp-action="Logout" method="post" style="display:inline;"> 
+    @Html.AntiForgeryToken() 
+    <button type="submit">Logout</button> 
+</form> 
 
 
 

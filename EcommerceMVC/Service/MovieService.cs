@@ -22,7 +22,7 @@ public class MovieService:IMovieService
         _hostingEnvironment = hostEnvironment;
         _httpContextAccessor = httpContextAccessor;
     }
-    public List<ResponseMoviesModel> GetAllMovies(string searchString)
+    public List<ResponseMoviesModel> GetAllMovies(string? searchString)
     {
         var lists = _repo.GetAllMoviesAsync(searchString);
         //select method forms a new list

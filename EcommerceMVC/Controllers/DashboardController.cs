@@ -1,15 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EcommerceMVC.Interfaces.IServices;
+using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceMVC.Controllers
 {
     public class DashboardController : Controller
     {
-        [HttpGet]
-        public IActionResult UserDashboard()
+        private readonly IMovieService _service;
+        public DashboardController(IMovieService service)
         {
-            return View();
+            _service = service;
         }
 
+        [HttpGet]
+        public IActionResult UserDashboard(string search)
+        {
+            var movielist = _service.GetAllMovies(search);
+            return View(movielist);
+        }
 
         [HttpGet]
         public IActionResult AdminDashboard()

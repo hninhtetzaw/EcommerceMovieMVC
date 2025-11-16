@@ -58,18 +58,14 @@ namespace EcommerceMVC.Controllers
                 SameSite = SameSiteMode.Strict
             });
 
-
             if(existingUser.RoleName == "User")
-            {
+            {              
                 return RedirectToAction("UserDashboard","Dashboard");
-
-
             }
             else
             {
                 return RedirectToAction("AdminDashboard","Dashboard");
             }
-
         }
 
         [HttpPost]
