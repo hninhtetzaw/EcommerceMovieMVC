@@ -19,4 +19,12 @@ html {
 
 body {
   margin-bottom: 60px;
+  color : blue
+}
+
+.test {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1050 !important;
+    background: white !important;
 }

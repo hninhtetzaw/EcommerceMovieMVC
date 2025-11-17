@@ -29,8 +29,16 @@
       "PackagePath": "staticwebassets\\images\\2e94c395-3ffc-4aef-8a9f-eec994a37d7c.png"
     },
     {
+      "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\30468996-0e20-4230-9042-588052df6fa8.jpg",
+      "PackagePath": "staticwebassets\\images\\30468996-0e20-4230-9042-588052df6fa8.jpg"
+    },
+    {
       "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png",
       "PackagePath": "staticwebassets\\images\\5c9245a1-340f-47bb-8279-eb9af96fed70.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\659606b1-02fa-4347-b4b9-de029ee3de2a.jpg",
+      "PackagePath": "staticwebassets\\images\\659606b1-02fa-4347-b4b9-de029ee3de2a.jpg"
     },
     {
       "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\696d0dcc-3fa0-4390-9b75-a4a2ad54780b.png",
@@ -45,12 +53,24 @@
       "PackagePath": "staticwebassets\\images\\78a533e3-5979-4275-8f4c-e62e399dabc7.png"
     },
     {
+      "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a0ac758c-9b95-4757-b1b9-96faa6f4db09.jpg",
+      "PackagePath": "staticwebassets\\images\\a0ac758c-9b95-4757-b1b9-96faa6f4db09.jpg"
+    },
+    {
       "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png",
       "PackagePath": "staticwebassets\\images\\a28a035e-e44a-4af9-a07a-d851befde8d2.png"
     },
     {
+      "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\b33474f0-46e1-492e-a555-c58436c9a0e7.jpg",
+      "PackagePath": "staticwebassets\\images\\b33474f0-46e1-492e-a555-c58436c9a0e7.jpg"
+    },
+    {
       "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png",
       "PackagePath": "staticwebassets\\images\\bb07f9ca-20b4-4971-8c06-3946531c7736.png"
+    },
+    {
+      "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c134b817-5f90-4382-864b-e708cb90a2ec.jpg",
+      "PackagePath": "staticwebassets\\images\\c134b817-5f90-4382-864b-e708cb90a2ec.jpg"
     },
     {
       "Id": "D:\\HHZDotNetTraining\\HHZDotNetTraining\\EcommerceMovieMVC\\EcommerceMVC\\wwwroot\\images\\c2d899d1-63f2-4f2c-94e2-3d91b0177e05.png",
