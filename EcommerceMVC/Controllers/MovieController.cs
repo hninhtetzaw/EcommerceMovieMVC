@@ -9,6 +9,7 @@ using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.Models.CategoryDtos;
 using EcommerceMVC.Models.CombinedViewDto;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Diagnostics;
 
 namespace EcommerceMVC.Controllers
 {
@@ -34,7 +35,7 @@ namespace EcommerceMVC.Controllers
         //[HttpPost]
         public IActionResult GetMovies(string? searchString)
         { 
-            var movies = _service.GetAllMovies(searchString);
+            var movies = _service.GetAllMovies(searchString);   
             return View(movies);
         }
 
@@ -92,7 +93,6 @@ namespace EcommerceMVC.Controllers
 
         [HttpGet]
         //[Authorize(Roles = "Admin")]
-
         public IActionResult EditMovie(string id)
         {
 
@@ -119,7 +119,6 @@ namespace EcommerceMVC.Controllers
 
         [HttpPost]
         //[Authorize(Roles = "Admin")]
-
         public IActionResult UpdateMovie(string id, UpdateMovieModel request)
         {
             //for this , need to same in the view , so, i change the view to updatemoviemodel
@@ -141,13 +140,18 @@ namespace EcommerceMVC.Controllers
 
         [HttpPost]
         //[Authorize(Roles = "Admin")]
-
         public IActionResult DeleteMovie(string id) 
         {
             var movie = _service.DeleteMovie(id);
             return RedirectToAction("GetMovies");
         }
 
+        [HttpGet]
+        public IActionResult DetailsMovie(string id)
+        {
+            var movie = _service.GetMovieById(id);
+            return View(movie);
+        }
 
         #region Users
 

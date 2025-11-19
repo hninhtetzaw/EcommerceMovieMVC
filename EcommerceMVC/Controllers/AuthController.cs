@@ -59,11 +59,13 @@ namespace EcommerceMVC.Controllers
             });
 
             if(existingUser.RoleName == "User")
-            {              
+            {
+                TempData["UserName"] = existingUser.UserName;
                 return RedirectToAction("UserDashboard","Dashboard");
             }
             else
             {
+                TempData["UserName"] = existingUser.UserName;
                 return RedirectToAction("AdminDashboard","Dashboard");
             }
         }

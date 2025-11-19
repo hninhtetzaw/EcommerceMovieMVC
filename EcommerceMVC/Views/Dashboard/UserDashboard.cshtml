@@ -6,26 +6,41 @@
 @model IEnumerable<EcommerceMVC.Models.ResponseMoviesModel>
 
 <div class="container mt-4">
-    <h1 class="mb-4">User Dashboard.. Welcome!!!</h1>
-
+    @if (TempData["UserName"] == null)
+    {
+        <p>User not found</p>
+    }
+    else
+    {
+        <h3 class="mb-4 color-info">Welcome, @TempData["UserName"]</h3>
+    }
     <div class="row">
         @foreach (var movie in Model)
         {
             <div class="col-md-4 mb-4">
-                <div class="card h-100">
+                <div class="card h-100 ">
+                    <div class="card-header bg-secondary">
+
+                    </div>
                     <img class="card-img-top" src="@movie.ImageUrl" alt="@movie.Title" height="300">
                     <div class="card-body d-flex flex-column">
                         <h4 class="card-title">@movie.Title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary mt-auto">More...</a>
+                        <p class="card-text"></p>
+                        <a asp-controller ="Movie" 
+                           asp-action="DetailsMovie" 
+                           asp-route-id ="@movie.Id"
+                           class="btn btn-outline-info mt-auto">More...</a>
                     </div>
                     <div class="card-footer">
                         <div>
                             @movie.Price Ks
-
                         </div>
                         <div>Release Date:
                             @movie.ReleaseDate 
+                        </div>
+                        <div>
+                            <i class="fa-solid fa-cart-shopping color-danger"></i>
+                            Add to Cart 
                         </div>
                         
                     </div>

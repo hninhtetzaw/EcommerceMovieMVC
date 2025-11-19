@@ -16,5 +16,6 @@ namespace EcommerceMVC.Models
 
         public string? ImageUrl { get; set; }
         public DateTime? ReleaseDate { get; set; }
+        public string? UserName { get; set; }
     }
 }

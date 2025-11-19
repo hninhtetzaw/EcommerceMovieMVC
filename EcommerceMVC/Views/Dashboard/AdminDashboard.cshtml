@@ -2,7 +2,14 @@
     Layout = "_LayoutAdmin";
     ViewData["Title"] = "Page Title";
 }
-<h1>Admin Dashboard.. Welcome!!! </h1>
+@if (TempData["UserName"] == null)
+{
+    <p>User not found</p>
+}
+else
+{
+    <h3 class="mb-4 color-info">Welcome, @TempData["UserName"]</h3>
+}
 
 <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
     <div class="container-fluid">
