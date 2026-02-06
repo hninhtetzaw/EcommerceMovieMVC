@@ -11,8 +11,11 @@ namespace EcommerceMVC.Models
         [StringLength(60, MinimumLength = 3)]
         public string? Title { get; set; }
 
-        [Required]
+        //[Required]
         public string? Genre { get; set; }
+
+        public string? GenreId { get; set; }
+
 
         [Required]
         [Range(1, 100)]

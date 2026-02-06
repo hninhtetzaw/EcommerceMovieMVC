@@ -14,7 +14,7 @@
 <form method="post" class="w-50" enctype="multipart/form-data">
 	@* <label>Title:</label> *@
 	@* <input class="form-control" type="text" asp-for="Title" placeholder="Title" /> *@
-	<div class="form-group">
+	<div class="form-group mt-2">
 		<label asp-for="MovieRequest.Title" class="control-label"></label>
 		<input asp-for="MovieRequest.Title" class="form-control" placeholder="Title" data-val-required="The Title field is required." />
 		<span asp-validation-for="MovieRequest.Title" class="text-danger"></span>
@@ -22,16 +22,15 @@
 
 	@* <label>Genre:</label>: *@
 	@* <input class="form-control" type="text" asp-for="Genre" placeholder="Genre" /> *@
-	<div class="form-group">
+	<div class="form-group mt-2">
 		<label asp-for="MovieRequest.Genre" class="control-label">Category</label>
 		@* <input asp-for="Genre" class="form-control" placeholder="Genre" data-val-required="The Genre field is required." /> *@
-		<select class="form-control">
-			<option value="">Select Category</option>
+		<select asp-for="MovieRequest.Genre" class="form-control">
+			<option value="MovieRequest.GenreId">-----Select Category-----</option>
 
 			@foreach (var m in Model.CategoriesList)
-			{			
+			{
 				<option value="@m.Name">@m.Name</option>
-
 			}
 			
 		</select>
@@ -40,7 +39,7 @@
 
 	@* <label>Price:</label> *@
 	@* <input class="form-control" type="number" asp-for="Price" placeholder="Price" /> *@
-	<div class="form-group">
+	<div class="form-group mt-2">
 		<label asp-for="MovieRequest.Price" class="control-label"></label>
 		<input asp-for="MovieRequest.Price" class="form-control" placeholder="Price" data-val="true" data-val-number="The field Price must be a number." data-val-required="The Price field is required." />
 		<span asp-validation-for="MovieRequest.Price" class="text-danger"></span>
@@ -53,12 +52,12 @@
 
 	@* <label>Release Date:</label> *@
 	@* <input class="form-control" type="date" asp-for="ReleaseDate" placeholder="Release Date" /> *@
-	<div class="form-group">
+	<div class="form-group mt-2">
 		<label asp-for="MovieRequest.ReleaseDate" class="control-label"></label>
 		<input asp-for="MovieRequest.ReleaseDate" type="date" class="form-control" placeholder="Release Date" data-val-required="The Release Date field is required." />
 		<span asp-validation-for="MovieRequest.ReleaseDate" class="text-danger"></span>
 	</div>
-	<div class="text-end">
+	<div class="text-end mt-2">
 
 		<button type="submit" class="btn btn-primary my-2 " asp-controller="Movie" asp-action="AddMovie">Save</button>
 

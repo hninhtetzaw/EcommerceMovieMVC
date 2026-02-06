@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -14,7 +16,6 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TestingMVC</a> *@
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Movie App</a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -25,19 +26,17 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>                      
+                        <li class="nav-item align-end">
+
+                            <button class="btn btn-primary ms-4">
+                                <a class="nav-link text-dark text-end" asp-area="" asp-controller="Auth" asp-action="Login">Login</a>
+                            </button>
+                            <button class="btn btn-primary ms-4">
+                                <a class="nav-link text-dark text-end" asp-area="" asp-controller="User" asp-action="CreateUser">Register</a>
+                            </button>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMovies">Movies Management</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="GetMoviesUser">MoviesCatalog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark text-end" asp-area="" asp-controller="Category" asp-action="GetCategories">Categories</a>
-                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -60,3 +59,5 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
+

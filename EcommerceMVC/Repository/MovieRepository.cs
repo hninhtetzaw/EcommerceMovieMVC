@@ -28,8 +28,13 @@ namespace EcommerceMVC.Repository
             }
             return _db.TblMovies.Include(m=> m.Category).ToList();
         }
+      
         public TblMovie AddMovieAsync(TblMovie movie)
         {
+            var categoryExist = _db.TblMovieCategories.Where(c => c.Name == movie.Genre).FirstOrDefault();
+            var categoryId = categoryExist.Id;
+
+            movie.CategoryId = categoryId;
 
             _db.TblMovies.Add(movie);
             _db.SaveChanges();

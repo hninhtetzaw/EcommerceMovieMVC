@@ -1,0 +1,39 @@
+﻿
+
+@* old *@
+@* @model EcommerceMVC.Models.ApiResponseModel<EcommerceMVC.Models.UserDtos.UpdateUserDto> *@
+
+@* for update and rolelist *@
+@model EcommerceMVC.Models.ApiResponseModel<EcommerceMVC.Models.CombinedViewDto.UpdateUserViewDto>
+
+
+<h1>Edit User</h1>
+  
+<form method="post" class="w-50">
+    <div class="form-group">
+        <label asp-for="Data.UpdateUserDto.UserName" class="form-label">User Name</label>
+        <input asp-for="Data.UpdateUserDto.UserName" type="text" placeholder="UserName" class="text-muted form-control" />
+        <span asp-validation-for="Data.UpdateUserDto.UserName" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Data.UpdateUserDto.Email" class="form-label">Email</label>
+        <input asp-for="@Model.Data.UpdateUserDto.Email" type="email" placeholder="Email" class="text-muted form-control" />
+        <span asp-validation-for="@Model.Data.UpdateUserDto.Email" class="text-danger"></span>
+
+    </div>
+    <div class="form-group mt-2">
+        <label asp-for="@Model.Data.UpdateUserDto.RoleId" class="form-label">Role</label>
+        @* <input asp-for="@Model.Data.Role" type="text" placeholder="Role" class="text-muted form-control" /> *@
+        <select asp-for="@Model.Data.UpdateUserDto.RoleId" class="form-control">
+            <option value="Model.Data.UpdateUserDto.RoleId">---Select Role---</option>
+            @foreach (var role in @Model.Data.RoleLists){
+                <option value="@role.RoleName">@role.RoleName</option>
+            }
+        </select>
+    </div>
+   
+    <button class=" btn btn-primary" type="submit" asp-controller="User" asp-action="UpdateUser" asp-route-id="@Model.Data.UpdateUserDto.Id">Save</button>
+    <button class=" btn btn-outline-primary" asp-controller="User" asp-action="GetAllUsers">Cancle</button>
+
+</form>

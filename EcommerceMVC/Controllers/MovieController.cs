@@ -8,9 +8,12 @@ using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
 using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.Models.CategoryDtos;
 using EcommerceMVC.Models.CombinedViewDto;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Diagnostics;
 
 namespace EcommerceMVC.Controllers
 {
+    //[Authorize(Roles ="User")]
     public class MovieController : Controller
     {
         private readonly IMovieService _service;
@@ -26,12 +29,13 @@ namespace EcommerceMVC.Controllers
         //    return View();
         //}
 
-        //Movie/GetMovie
+        //Movie/GetMovies
         [HttpGet]
+        //[Authorize(Roles = "User")]
         //[HttpPost]
         public IActionResult GetMovies(string? searchString)
         { 
-            var movies = _service.GetAllMovies(searchString);
+            var movies = _service.GetAllMovies(searchString);   
             return View(movies);
         }
 
@@ -44,12 +48,14 @@ namespace EcommerceMVC.Controllers
 
         //for categories dropdown list
         [HttpGet]
+        //[Authorize(Roles = "Admin")]
         public IActionResult AddMovie(string? searchString)
         {
             var categories = _categoryService.GetAllCategories();
             var addMovieModel = new AddMovieViewDto
             {
-                CategoriesList = categories
+                MovieRequest = new RequestNewMovieModel(),
+                CategoriesList = categories ?? new List<ResponseCategoryDto>()
             };
 
             return View(addMovieModel);
@@ -57,20 +63,36 @@ namespace EcommerceMVC.Controllers
 
         //Movie/AddMovies/
         [HttpPost]
-        public IActionResult AddMovie([FromForm] RequestNewMovieModel request)
+        //[Authorize(Roles = "Admin")]
+        public IActionResult AddMovie([FromForm] AddMovieViewDto request)
         {
-            if (!ModelState.IsValid)
-            {
-                return View();
-            }
-            var response = _service.AddMovie(request);
+            //if (!ModelState.IsValid)
+            //{
+            //    return View();
+            //}
+
+            var newMovieRequest = request.MovieRequest;
+            var response = _service.AddMovie(newMovieRequest);
 
             //go back to getmovies pages
             return RedirectToAction("GetMovies");
 
         }
+        //public IActionResult AddMovie([FromForm] RequestNewMovieModel request)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return View();
+        //    }
+        //    var response = _service.AddMovie(request);
+
+        //    //go back to getmovies pages
+        //    return RedirectToAction("GetMovies");
+
+        //}
 
         [HttpGet]
+        //[Authorize(Roles = "Admin")]
         public IActionResult EditMovie(string id)
         {
 
@@ -96,6 +118,7 @@ namespace EcommerceMVC.Controllers
         }
 
         [HttpPost]
+        //[Authorize(Roles = "Admin")]
         public IActionResult UpdateMovie(string id, UpdateMovieModel request)
         {
             //for this , need to same in the view , so, i change the view to updatemoviemodel
@@ -116,12 +139,19 @@ namespace EcommerceMVC.Controllers
         }
 
         [HttpPost]
+        //[Authorize(Roles = "Admin")]
         public IActionResult DeleteMovie(string id) 
         {
             var movie = _service.DeleteMovie(id);
             return RedirectToAction("GetMovies");
         }
 
+        [HttpGet]
+        public IActionResult DetailsMovie(string id)
+        {
+            var movie = _service.GetMovieById(id);
+            return View(movie);
+        }
 
         #region Users
 

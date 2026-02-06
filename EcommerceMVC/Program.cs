@@ -5,6 +5,12 @@ using EcommerceMVC.Service;
 using EcommerceMVC.Services;
 using EcommerceMVC.Interfaces.IRepositories;
 using EcommerceMVC.Interfaces.IServices;
+using EcommerceMVC.Models.Mappers;
+using EcommerceMVC.AppSetting;
+using EcommerceMVC.JwtHelper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,8 +32,49 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService,  UserService>();
 
+builder.Services.AddScoped<IRoleRepository, RoleRepository>();
+builder.Services.AddScoped<IRoleService, RoleService>();
+
 builder.Services.AddHttpContextAccessor(); // For accessing HttpContext in services
 
+builder.Services.AddAutoMapper(typeof(AutoMappers));
+
+//added jwt
+//add authentication
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+        .AddJwtBearer(options =>
+        {
+            options.TokenValidationParameters = new TokenValidationParameters
+            {
+                ValidateIssuer = true,
+                ValidateAudience = true,
+                ValidateLifetime = true,
+                ValidateIssuerSigningKey = true,
+                ValidIssuer = builder.Configuration["JwtSetting:Issuer"],
+                ValidAudience = builder.Configuration["JwtSetting:Audience"],
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtSetting:Key"]))
+            };
+
+            // Read token from cookie
+            options.Events = new JwtBearerEvents
+            {
+                OnMessageReceived = context =>
+                {
+                    var token = context.Request.Cookies["AuthToken"];
+                    if (!string.IsNullOrEmpty(token))
+                        context.Token = token;
+
+                    return Task.CompletedTask;
+                }
+            };
+        });
+
+
+//jwt end
+
+builder.Services.Configure<JwtSetting>(builder.Configuration.GetSection("JwtSetting"));
+
+builder.Services.AddScoped<TokenGenerate>(); //added for jwt token generation
 
 
 var app = builder.Build();
@@ -46,12 +93,13 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    //pattern: "{controller=Home}/{action=Index}/{id?}");
-    pattern: "{controller=Movie}/{action=GetMovies}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+//pattern: "{controller=Movie}/{action=GetMovies}/{id?}");
 
 
 app.Run();

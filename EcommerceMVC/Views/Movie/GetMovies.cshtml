@@ -1,8 +1,9 @@
 ﻿@{
-	ViewData["Title"] = "GetMovies";
+	Layout = "_LayoutUser";  // your dashboard layout
+	ViewData["Title"] = "Movies List";
 }
-@model IEnumerable<EcommerceMVC.Models.ResponseMoviesModel>
 
+@model IEnumerable<EcommerceMVC.Models.ResponseMoviesModel>
 
 <h1>Movies</h1>
 
@@ -90,8 +91,7 @@
 					</div>
 				</div>
 		</form>
-		
-		
+	
 		}
 	
 	</tbody>

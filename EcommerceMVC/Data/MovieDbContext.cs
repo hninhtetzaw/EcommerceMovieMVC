@@ -174,7 +174,7 @@ public partial class MoviedbContext : DbContext
             entity.Property(e => e.Id).HasMaxLength(36);
             entity.Property(e => e.CreatedDate).HasColumnType("datetime");
             entity.Property(e => e.Email).HasMaxLength(45);
-            entity.Property(e => e.Pasword).HasMaxLength(45);
+            entity.Property(e => e.Password).HasMaxLength(256);
             entity.Property(e => e.RoleId).HasMaxLength(36);
             entity.Property(e => e.UserName).HasMaxLength(45);
 

@@ -14,13 +14,15 @@ public class MovieService:IMovieService
     private readonly IWebHostEnvironment _hostingEnvironment;
     private readonly IHttpContextAccessor _httpContextAccessor;
 
-    public MovieService(IMovieRepository repo, IWebHostEnvironment hostEnvironment, IHttpContextAccessor httpContextAccessor)
+    public MovieService(IMovieRepository repo, 
+                        IWebHostEnvironment hostEnvironment, 
+                        IHttpContextAccessor httpContextAccessor)
     {
         _repo = repo;
         _hostingEnvironment = hostEnvironment;
         _httpContextAccessor = httpContextAccessor;
     }
-    public List<ResponseMoviesModel> GetAllMovies(string searchString)
+    public List<ResponseMoviesModel> GetAllMovies(string? searchString)
     {
         var lists = _repo.GetAllMoviesAsync(searchString);
         //select method forms a new list
@@ -54,17 +56,17 @@ public class MovieService:IMovieService
         //filepath is full url . so i don't see image in browser
         string imageUrl = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}/images/{fileName}";
 
-
         var movie = new TblMovie
-       {
-           Id= request.Id,
-           //Title = request.Title!,
-           Title = request.Title,
-           Genre = request.Genre,
-           ReleaseDate = request.ReleaseDate,
-           ImageUrl = imageUrl,
-           Price = request.Price
-       };
+        {
+            Id = request.Id,
+            //Title = request.Title!,
+            Title = request.Title,
+            Genre = request.Genre,
+            ReleaseDate = request.ReleaseDate,
+            ImageUrl = imageUrl,
+            //CategoryId = request.GenreId,
+            Price = request.Price
+        };
 
         var response = _repo.AddMovieAsync(movie);
 

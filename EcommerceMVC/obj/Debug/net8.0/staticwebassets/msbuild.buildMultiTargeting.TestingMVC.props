@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TestingMVC.props" />
-</Project>
