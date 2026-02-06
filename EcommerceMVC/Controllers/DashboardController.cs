@@ -12,9 +12,9 @@ namespace EcommerceMVC.Controllers
         }
 
         [HttpGet]
-        public IActionResult UserDashboard(string search)
+        public IActionResult UserDashboard(string? searchString)
         {
-            var movielist = _service.GetAllMovies(search);
+            var movielist = _service.GetAllMovies(searchString);
             return View(movielist);
         }
 
