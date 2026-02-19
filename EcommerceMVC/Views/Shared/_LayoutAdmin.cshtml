@@ -2,28 +2,59 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>@ViewData["Title"] - User App</title>
+    <title>@ViewData["Title"] - Admin</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TestingMVC.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
-    @* <header> *@
-    @*     <h1>Admin Layout Header</h1> *@
-    @* </header> *@
 
-    <div class="main-content">
-        @RenderBody()
+    <div class="container-fluid">
+        <div class="row">
+
+            <!-- Sidebar -->
+            <nav class="col-md-3 col-lg-2 d-md-block bg-dark sidebar min-vh-100 p-3">
+                <h5 class="text-white">Admin Panel</h5>
+                <hr class="text-secondary" />
+
+                <ul class="nav nav-pills flex-column mb-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-white"
+                           asp-controller="Movie" asp-action="GetMovies">
+                            🎬 Movies
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link text-white"
+                           asp-controller="User" asp-action="GetAllUsers">
+                            👥 Users
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link text-white"
+                           asp-controller="Category" asp-action="GetCategories">
+                            📂 Categories
+                        </a>
+                    </li>
+                </ul>
+
+                <hr class="text-secondary" />
+
+                <form asp-controller="Auth" asp-action="Logout" method="post">
+                    @Html.AntiForgeryToken()
+                    <button type="submit" class="btn btn-danger w-100">
+                        🚪 Logout
+                    </button>
+                </form>
+            </nav>
+
+            <!-- Main Content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 py-4">
+                @RenderBody()
+            </main>
+
+        </div>
     </div>
 
-    @* <footer> *@
-    @*     <p>&copy; 2025 Admin Portal</p> *@
-    @* </footer> *@
-
-
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

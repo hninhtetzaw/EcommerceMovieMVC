@@ -28,3 +28,10 @@ body {
     z-index: 1050 !important;
     background: white !important;
 }
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
