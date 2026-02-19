@@ -10,43 +10,45 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
-            <div class="container-fluid d-flex justify-content-between">
-                <div>
-                     <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                         eTicket Movie
-                         <i class="fa-solid fa-clapperboard"></i>
-                     </a>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+            <div class="container">
 
-                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                             aria-expanded="false" aria-label="Toggle navigation">
-                         <span class="navbar-toggler-icon"></span>
+                <a class="navbar-brand fw-bold"
+                   asp-controller="Home" asp-action="Index">
+                    🎬 eTicket Movie
+                </a>
+
+                <div class="d-flex align-items-center gap-3">
+
+                    <span class="text-white small">
+                        @TempData["UserName"]
+                    </span>
+
+                    <div class="dropdown">
+                        <button class="btn btn-outline-light btn-sm dropdown-toggle"
+                                data-bs-toggle="dropdown">
+                            Account
                         </button>
-                </div>             
-                <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class="navbar-nav">
-                        <li class="text-end">
-                            <div class="dropdown">                                
-                                <i class="fa-solid fa-gear dropdown-toggle" data-bs-toggle="dropdown"></i>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <form asp-controller="Auth" asp-action="Logout" method="post" class="btn btn-outline-primary">
-                                            @Html.AntiForgeryToken()
-                                            <button class="dropdown-item" type="submit">Logout</button>
-                                        </form>
-                                    </li>
-                                </ul>
-                            </div>
 
-                        </li>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li>
+                                <form asp-controller="Auth"
+                                      asp-action="Logout"
+                                      method="post">
+                                    @Html.AntiForgeryToken()
+                                    <button class="dropdown-item"
+                                            type="submit">
+                                        Logout
+                                    </button>
+                                </form>
+                            </li>
+                        </ul>
+                    </div>
 
-                    </ul>
-                 </div>
-
-
-             
+                </div>
             </div>
         </nav>
+
     </header>
 
     <div class="main-content">
