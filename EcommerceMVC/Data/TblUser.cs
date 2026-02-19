@@ -18,4 +18,6 @@ public partial class TblUser
     public string? RoleId { get; set; }
 
     public virtual TblRole? Role { get; set; }
+
+    public virtual ICollection<TblOrder> TblOrders { get; set; } = new List<TblOrder>();
 }

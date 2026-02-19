@@ -30,4 +30,6 @@ public partial class TblMovie
     public virtual TblProducer? Producer { get; set; }
 
     public virtual ICollection<TblActorMovie> TblActorMovies { get; set; } = new List<TblActorMovie>();
+
+    public virtual ICollection<TblOrderItem> TblOrderItems { get; set; } = new List<TblOrderItem>();
 }

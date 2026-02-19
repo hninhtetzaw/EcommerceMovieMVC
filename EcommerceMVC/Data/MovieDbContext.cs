@@ -25,6 +25,10 @@ public partial class MoviedbContext : DbContext
 
     public virtual DbSet<TblMovieCategory> TblMovieCategories { get; set; }
 
+    public virtual DbSet<TblOrder> TblOrders { get; set; }
+
+    public virtual DbSet<TblOrderItem> TblOrderItems { get; set; }
+
     public virtual DbSet<TblProducer> TblProducers { get; set; }
 
     public virtual DbSet<TblRole> TblRoles { get; set; }
@@ -139,6 +143,48 @@ public partial class MoviedbContext : DbContext
 
             entity.Property(e => e.Id).HasMaxLength(36);
             entity.Property(e => e.Name).HasMaxLength(100);
+        });
+
+        modelBuilder.Entity<TblOrder>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PRIMARY");
+
+            entity.ToTable("tbl_order");
+
+            entity.HasIndex(e => e.UserId, "fk_tbl_user");
+
+            entity.Property(e => e.Id).HasMaxLength(36);
+            entity.Property(e => e.OrderDate).HasColumnType("datetime");
+            entity.Property(e => e.TotalAmount).HasPrecision(10);
+            entity.Property(e => e.UserId).HasMaxLength(36);
+
+            entity.HasOne(d => d.User).WithMany(p => p.TblOrders)
+                .HasForeignKey(d => d.UserId)
+                .HasConstraintName("fk_tbl_user");
+        });
+
+        modelBuilder.Entity<TblOrderItem>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PRIMARY");
+
+            entity.ToTable("tbl_order_items");
+
+            entity.HasIndex(e => e.OrderId, "fk_tbl_order");
+
+            entity.HasIndex(e => e.MovieId, "fk_tbl_order_items_movie");
+
+            entity.Property(e => e.Id).HasMaxLength(36);
+            entity.Property(e => e.MovieId).HasMaxLength(36);
+            entity.Property(e => e.OrderId).HasMaxLength(36);
+            entity.Property(e => e.Price).HasPrecision(10);
+
+            entity.HasOne(d => d.Movie).WithMany(p => p.TblOrderItems)
+                .HasForeignKey(d => d.MovieId)
+                .HasConstraintName("fk_tbl_order_items_movie");
+
+            entity.HasOne(d => d.Order).WithMany(p => p.TblOrderItems)
+                .HasForeignKey(d => d.OrderId)
+                .HasConstraintName("fk_tbl_order");
         });
 
         modelBuilder.Entity<TblProducer>(entity =>
