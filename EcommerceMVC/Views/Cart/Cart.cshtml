@@ -1,0 +1,81 @@
+﻿
+
+@{
+    Layout = "_LayoutUser";
+    ViewData["Title"] = "Dashboard";
+}
+
+@model IEnumerable<EcommerceMVC.Models.CartDtos.ResponseCartItem>
+
+<div class="container py-4">
+
+<h3 class="text-center text-black mb-3">Your Cart Lists</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Movie Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            decimal grandTotal = 0;
+         }
+        @foreach (var item in Model)
+        {
+           
+			var total = item.Price * item.Quantity;
+			
+            <tr>
+                <td>@item.MovieName</td>
+                <td>@item.Price Ks</td>
+                    <!-- Quantity Controls -->
+                <td>
+                        <div class="d-flex align-items-center">
+                            <!-- Decrease -->
+                            <form asp-action="DecreaseCart" asp-route-id="@item.Id" method="get" class="m-0">
+                                <button type="submit" class="btn btn-outline-secondary btn-sm">
+                                    <i class="fa-solid fa-minus"></i>
+                                </button>
+                            </form>
+
+                            <!-- Quantity Display -->
+                            <input type="text" class="form-control form-control-sm text-center mx-2"
+                                   value="@item.Quantity" readonly style="width:50px;" />
+
+                            <!-- Increase -->
+                            <form asp-action="IncreaseCart" asp-route-id="@item.Id" method="get" class="m-0">
+                                <button type="submit" class="btn btn-outline-secondary btn-sm">
+                                    <i class="fa-solid fa-plus"></i>
+                                </button>
+                            </form>
+                        </div>
+                </td>
+
+                @* <td>@(item.Price * item.Quantity) Ks</td> *@
+                <td>@total Ks</td>
+                    <!-- Remove -->
+                    <td>
+                        <form asp-action="RemoveCart" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">
+                                <i class="fa-solid fa-trash"></i> Delete
+                            </button>
+                        </form>
+                    </td>
+            </tr>
+			grandTotal += total;
+        }
+        <tr class="text-black">
+            <td></td>
+            <td></td>
+            <td>Grand Total</td>
+            <td>@grandTotal Ks</td>
+
+    </tbody>
+</table>
+    <a asp-action="UserDashboard" asp-controller="Dashboard" class="text-primary mt-2">Back To Dashboard</a>
+</div>

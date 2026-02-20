@@ -72,10 +72,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 //jwt end
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromHours(1);
+});
+
 builder.Services.Configure<JwtSetting>(builder.Configuration.GetSection("JwtSetting"));
 
 builder.Services.AddScoped<TokenGenerate>(); //added for jwt token generation
 
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
@@ -95,6 +102,10 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.UseSession();
+
+
 
 app.MapControllerRoute(
     name: "default",
