@@ -9,38 +9,50 @@
 
 <div class="container py-4">
 
-<h3 class="text-center text-black mb-3">Your Cart Lists</h3>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Movie Name</th>
-            <th>Price</th>
-            <th>Quantity</th>
-            <th>Total</th>
-            <th>Action</th>
-        </tr>
-    </thead>
-    <tbody>
-        @{
-            decimal grandTotal = 0;
-         }
-        @foreach (var item in Model)
-        {
-           
-			var total = item.Price * item.Quantity;
-			
+    <h3 class="text-center text-black mb-3">Your Cart Lists</h3>
+    <table class="table">
+        <thead>
             <tr>
-                <td>@item.MovieName</td>
-                <td>@item.Price Ks</td>
+                <th>Movie Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                decimal grandTotal = 0;
+            }
+            @foreach (var item in Model)
+            {           
+                var total = item.Price * item.Quantity;
+
+                <tr>
+                    <td>@item.MovieName</td>
+                    <td>@item.Price Ks</td>
                     <!-- Quantity Controls -->
-                <td>
+                    <td>
                         <div class="d-flex align-items-center">
                             <!-- Decrease -->
-                            <form asp-action="DecreaseCart" asp-route-id="@item.Id" method="get" class="m-0">
-                                <button type="submit" class="btn btn-outline-secondary btn-sm">
-                                    <i class="fa-solid fa-minus"></i>
-                                </button>
-                            </form>
+
+                            @{
+                                if(item.Quantity <= 1){
+                                    <form asp-action="DecreaseCart" asp-route-id="@item.Id" method="get" class="m-0">
+                                        <button type="submit" disabled class="btn btn-outline-secondary btn-sm">
+                                            <i class="fa-solid fa-minus"></i>
+                                        </button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <form asp-action="DecreaseCart" asp-route-id="@item.Id" method="get" class="m-0">
+                                        <button type="submit" class="btn btn-outline-secondary btn-sm">
+                                            <i class="fa-solid fa-minus"></i>
+                                        </button>
+                                    </form>
+                                }
+                            }
 
                             <!-- Quantity Display -->
                             <input type="text" class="form-control form-control-sm text-center mx-2"
@@ -69,11 +81,26 @@
             </tr>
 			grandTotal += total;
         }
-        <tr class="text-black">
-            <td></td>
-            <td></td>
-            <td>Grand Total</td>
-            <td>@grandTotal Ks</td>
+        
+                @if (Model == null || !Model.Any())
+                {
+                    <div class="text-center p-4">
+                        <h4>Your cart is empty 🛒</h4>
+                    </div>
+                }
+                else
+                {
+                        
+                        <tfoot>
+                            <tr class="fw-bold border-top">
+                                <td colspan="3" class="text-end">Grand Total:</td>
+                                <td>@grandTotal.ToString("N0") Ks</td>
+                                <td></td>
+                            </tr>
+                        </tfoot>
+                }
+        
+        
 
     </tbody>
 </table>
