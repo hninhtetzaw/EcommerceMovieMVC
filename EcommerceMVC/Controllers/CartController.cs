@@ -134,6 +134,11 @@ namespace EcommerceMVC.Controllers
             return RedirectToAction("Cart");
         }
 
+        [HttpGet]
+        public IActionResult Checkout()
+        {
+            return View();
+        }
         public IActionResult TestSession()
         {
             HttpContext.Session.SetString("TestKey", "Hello Session");

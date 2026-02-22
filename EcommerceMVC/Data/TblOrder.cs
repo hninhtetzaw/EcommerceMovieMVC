@@ -12,6 +12,7 @@ public partial class TblOrder
     public DateTime? OrderDate { get; set; }
 
     public decimal? TotalAmount { get; set; }
+    public string? Status { get; set; }
 
     public virtual ICollection<TblOrderItem> TblOrderItems { get; set; } = new List<TblOrderItem>();//one order can have many items
 

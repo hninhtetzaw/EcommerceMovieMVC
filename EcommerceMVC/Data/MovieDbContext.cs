@@ -157,6 +157,7 @@ public partial class MoviedbContext : DbContext
             entity.Property(e => e.OrderDate).HasColumnType("datetime");
             entity.Property(e => e.TotalAmount).HasPrecision(10);
             entity.Property(e => e.UserId).HasMaxLength(36);
+            entity.Property(e => e.Status).HasMaxLength(100);
 
             entity.HasOne(d => d.User).WithMany(p => p.TblOrders)
                 .HasForeignKey(d => d.UserId)

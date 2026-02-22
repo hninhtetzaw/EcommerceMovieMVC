@@ -46,7 +46,7 @@ namespace EcommerceMVC.Controllers
                 return null;
             }
 
-            var token = _tokenService.GenerateJwtToken(existingUser.UserName, existingUser.RoleName);
+            var token = _tokenService.GenerateJwtToken(existingUser.Id,existingUser.UserName, existingUser.RoleName);
 
             //// Store token in session
             //HttpContext.Session.SetString("Token", token);

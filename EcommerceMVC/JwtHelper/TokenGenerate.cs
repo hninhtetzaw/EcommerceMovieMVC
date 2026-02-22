@@ -16,7 +16,7 @@ namespace EcommerceMVC.JwtHelper
         {
             _jwtSetting = jwtSetting;
         }
-        public string GenerateJwtToken(string name, string role)
+        public string GenerateJwtToken(string userId, string name, string role)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
 
@@ -25,6 +25,7 @@ namespace EcommerceMVC.JwtHelper
 
             var claims = new List<Claim>
             {
+               new Claim(ClaimTypes.NameIdentifier, userId), // recommended
                 new Claim(ClaimTypes.Name, name),
                 new Claim(ClaimTypes.Role, role)
             };

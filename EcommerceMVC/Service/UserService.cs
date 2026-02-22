@@ -212,6 +212,7 @@ namespace EcommerceMVC.Service
 
             var response = new ResponseUserDto 
             { 
+                Id = existingUser.Id,
                 UserName = existingUser.UserName,
                 Password = existingUser.Password,
                 RoleName = existingUser.Role.RoleName
