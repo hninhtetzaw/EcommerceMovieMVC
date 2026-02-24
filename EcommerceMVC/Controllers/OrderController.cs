@@ -41,6 +41,10 @@ namespace EcommerceMVC.Controllers
 
             var result = _orderService.CreateOrder(userId, cartItems);
 
+            HttpContext.Session.Remove("Cart");
+            HttpContext.Session.Remove("Quantity");
+
+
             return RedirectToAction("Checkout","Cart");
 
 
