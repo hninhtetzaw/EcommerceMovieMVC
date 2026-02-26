@@ -1,0 +1,26 @@
+﻿@model IEnumerable<EcommerceMVC.Models.OrderDtos.ResponseViewOrderHistory>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Order Id</th>
+			<th>Order Date</th>
+			<th>Total Amount</th>
+			<th>Status</th>
+		</tr>
+	</thead>
+	@foreach(var order in Model)
+	{
+
+		<tbody>
+			<tr>
+				<td>@order.OrderId</td>
+				<td>@order.OrderDate</td>
+				<td>@order.TotalAmount</td>
+				<td>@order.Status</td>
+
+			</tr>
+		</tbody>
+	}
+</table>
+

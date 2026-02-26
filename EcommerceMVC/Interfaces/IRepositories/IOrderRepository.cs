@@ -7,6 +7,6 @@ namespace EcommerceMVC.Interfaces.IRepositories
     {
         List<TblOrder> GetOrders();
         TblOrder CreateOrder(TblOrder request);
-        
+        List<TblOrder> OrderHistory(string userId);
     }
 }

@@ -3,6 +3,7 @@ using EcommerceMVC.Interfaces.IRepositories;
 using EcommerceMVC.Interfaces.IServices;
 using EcommerceMVC.Models.CartDtos;
 using EcommerceMVC.Models.OrderDtos;
+using Mysqlx.Crud;
 
 namespace EcommerceMVC.Service
 {
@@ -29,7 +30,7 @@ namespace EcommerceMVC.Service
                 Id = Guid.NewGuid().ToString(),
                 UserId = userId,
                 OrderDate = DateTime.Now,
-                TotalAmount = request.First().Total,
+                TotalAmount = request.Sum(x=> x.Total),
                 Status = "Pending",
                 TblOrderItems = new List<TblOrderItem>()
 
@@ -66,6 +67,27 @@ namespace EcommerceMVC.Service
 
 
 
+        }
+   
+        public List<ResponseViewOrderHistory> OrderHistory(string userId)
+        {
+            var orderLists = _orderRepo.OrderHistory(userId);
+
+            var response = new List<ResponseViewOrderHistory>();
+
+            foreach (var order in orderLists)
+            {
+                var item = new ResponseViewOrderHistory
+                {
+                    OrderId = order.Id,
+                    OrderDate = order.OrderDate,
+                    TotalAmount = order.TotalAmount,
+                    Status = order.Status,
+                };
+                response.Add(item);
+            }
+
+            return response;
         }
     }
 }

@@ -7,5 +7,7 @@ namespace EcommerceMVC.Interfaces.IServices
     {
         List<ResponseCreateOrder> GetOrderLists();
         ResponseCreateOrder CreateOrder(string userId , List<ResponseCartItem> request);
+        List<ResponseViewOrderHistory> OrderHistory(string userId);
+    
     }
 }

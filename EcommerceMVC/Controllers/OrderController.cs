@@ -50,5 +50,14 @@ namespace EcommerceMVC.Controllers
 
         }
 
+        [HttpGet]
+        public IActionResult OrderHistory()
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+            var results = _orderService.OrderHistory(userId);
+
+            return View(results);
+        }
     }
 }

@@ -36,11 +36,20 @@
 
     <!-- Add to Cart -->
     <div class="d-flex justify-content-end mb-3">
+            <a asp-controller="Order"
+               asp-action="OrderHistory"
+               class="position-relative d-inline-block text-decoration-none">
+
+                Order History
+                <i class="fa-light fs-2 fa-basket-shopping me-0 4"></i>
+                @* <span class="ms-1">View Cart</span> *@
+
+            </a>
         <a asp-controller="Cart"
            asp-action="Cart"
            class="position-relative d-inline-block text-decoration-none">
 
-            <i class="fa-solid fa-cart-shopping fs-2 text-warning"></i>
+            <i class="fa-solid fa-cart-shopping fs-2 text-warning ms-2"></i>
             @* <span class="ms-1">View Cart</span> *@
             @if (totalQuantity > 0)
             {
