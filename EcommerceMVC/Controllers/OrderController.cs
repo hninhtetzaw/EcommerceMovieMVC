@@ -14,6 +14,14 @@ namespace EcommerceMVC.Controllers
         {
             _orderService = service;
         }
+
+        [HttpGet]
+        public IActionResult OrderList()
+        {
+            var results = _orderService.GetOrderLists();
+            return View(results);
+        }
+
         [HttpGet]
         public IActionResult CreateOrder()
         {
