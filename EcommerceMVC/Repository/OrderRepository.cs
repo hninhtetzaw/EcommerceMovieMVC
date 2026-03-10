@@ -15,7 +15,8 @@ namespace EcommerceMVC.Repository
         }
         public List<TblOrder> GetOrders()
         {
-            return null;
+            var list = _db.TblOrders.Include(o => o.TblOrderItems).OrderByDescending(o => o.OrderDate).ToList();
+            return list;
         }
         public TblOrder CreateOrder(TblOrder orders)
         {

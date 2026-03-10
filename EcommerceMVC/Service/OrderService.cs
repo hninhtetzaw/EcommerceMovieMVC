@@ -17,9 +17,36 @@ namespace EcommerceMVC.Service
             _orderItemsRepo = orderItemsRepository;
         }
 
-        public List<ResponseCreateOrder> GetOrderLists()
+        public List<ResponseOrderList> GetOrderLists()
         {
-            return null;
+            var lists = _orderRepo.GetOrders();
+
+            var result = new List<ResponseOrderList>();
+
+            foreach(var order in lists)
+            {
+                var item = new ResponseOrderList
+                {
+                    Id = order.Id,
+                    UserId = order.UserId,
+                    OrderDate = order.OrderDate,
+                    TotalAmount = order.TotalAmount,
+                    Status = order.Status
+                };
+                result.Add(item);
+
+            }
+
+            //var result = lists.Select(order => new ResponseOrderList
+            //{
+            //    Id = order.Id,
+            //    UserId = order.UserId,
+            //    OrderDate = order.OrderDate,
+            //    TotalAmount = order.TotalAmount,
+            //    Status = order.Status
+            //}).ToList();
+            
+            return result;
         }
         public ResponseCreateOrder CreateOrder(string userId, List<ResponseCartItem> request)
         {
