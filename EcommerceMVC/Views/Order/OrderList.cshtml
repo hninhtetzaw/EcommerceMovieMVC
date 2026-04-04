@@ -1,5 +1,68 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model IEnumerable<EcommerceMVC.Models.OrderDtos.ResponseOrderList>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order Id</th>
+            <th>Order Date</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.OrderDate</td>
+                <td>@order.TotalAmount</td>
+
+                <!-- STATUS -->
+                <td>
+                    @if (order.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (order.Status == "Confirmed")
+                    {
+                        <span class="badge bg-success">Confirmed</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Cancelled</span>
+                    }
+                </td>
+
+                <!-- ACTIONS -->
+                <td>
+                    @if (order.Status == "Pending")
+                    {
+                        <form asp-action="ConfirmOrder" asp-controller="Order" asp-route-id="@order.Id" method="get" style="display:inline;">
+                            @* <input type="hidden" name="id" value="@order.Id" /> *@
+                            <button class="btn btn-success btn-sm"
+                                    type="submit"
+                                    onclick="return confirm('Confirm this order?')">
+                                ✔ Confirm
+                            </button>
+                        </form>
+
+                        <form asp-action="Cancel" asp-controller="Order" asp-route-id="@order.Id" method="get" style="display:inline;">
+                            <input type="hidden" name="id" value="@order.Id" />
+                            <button class="btn btn-danger btn-sm"
+                                    type="submit"
+                                    onclick="return confirm('Cancel this order?')">
+                                ✖ Cancel
+                            </button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Action</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

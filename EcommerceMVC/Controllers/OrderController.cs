@@ -53,7 +53,7 @@ namespace EcommerceMVC.Controllers
             HttpContext.Session.Remove("Quantity");
 
 
-            return RedirectToAction("Checkout","Cart");
+            return RedirectToAction("OrderList", "Order");
 
 
         }
@@ -67,5 +67,24 @@ namespace EcommerceMVC.Controllers
 
             return View(results);
         }
+
+        [HttpGet]
+        public IActionResult ConfirmOrder(string id)
+        {
+            var result = _orderService.ConfirmOrder(id);
+            return RedirectToAction("OrderList", "Order");
+
+
+        }
+
+        [HttpGet]
+        public IActionResult CancleOrder(string id)
+        {
+            var result = _orderService.CancleOrder(id);
+            return RedirectToAction("OrderList", "Order");
+
+
+        }
+
     }
 }

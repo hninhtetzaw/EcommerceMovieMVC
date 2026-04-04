@@ -116,5 +116,21 @@ namespace EcommerceMVC.Service
 
             return response;
         }
+   
+        public string ConfirmOrder(string id)
+        {
+            var order = _orderRepo.ConfirmOrder(id);
+
+            return "successfully confirmed!";
+
+        }
+        public string CancleOrder(string id)
+        {
+             
+            var order = _orderRepo.CancleOrder(id);
+
+            return "successfully cancle!";
+
+        }
     }
 }

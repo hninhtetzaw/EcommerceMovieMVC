@@ -30,5 +30,23 @@ namespace EcommerceMVC.Repository
                     .OrderByDescending(o => o.OrderDate).ToList();
             return lists;
         }
+        public TblOrder ConfirmOrder(string id)
+        {
+            var order = _db.TblOrders.Where(o=>o.Id == id ).FirstOrDefault();
+
+            order.Status = "Confirmed";
+            _db.SaveChanges();
+
+            return order;
+        }
+        public TblOrder CancleOrder(string id)
+        {
+            var order = _db.TblOrders.Where(o => o.Id == id).FirstOrDefault();
+
+            order.Status = "Cancelled";
+            _db.SaveChanges();
+
+            return order;
+        }
     }
 }
